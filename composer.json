@@ -1,0 +1,12 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/yaml": "^7.1",
+        "nilportugues/sql-query-builder": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "ContingentParser\\": "ContingentParser/"
+        }
+    }
+}

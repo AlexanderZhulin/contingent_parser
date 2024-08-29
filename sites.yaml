@@ -1,0 +1,3723 @@
+-
+    org_id: 2
+    site: 'http://adygnet.ru'
+-
+    org_id: 3
+    site: achgaa.ru
+-
+    org_id: 6
+    site: 'http://www.spbguga.ru'
+-
+    org_id: 7
+    site: 'https://amchs.ru/'
+-
+    org_id: 11
+    site: 'http://www.ranepa.ru'
+-
+    org_id: 14
+    site: 'http://www.vaganovaacademy.ru'
+-
+    org_id: 16
+    site: 'http://www.atiso.ru'
+-
+    org_id: 18
+    site: 'https://www.axu.ru'
+-
+    org_id: 22
+    site: 'http://www.asau.ru'
+-
+    org_id: 23
+    site: 'http://www.agik22.ru'
+-
+    org_id: 24
+    site: 'http://www.agmu.ru/'
+-
+    org_id: 25
+    site: 'http://www.altstu.ru'
+-
+    org_id: 26
+    site: 'http://www.asu.ru'
+-
+    org_id: 27
+    site: 'http://www.agni-rt.ru'
+-
+    org_id: 28
+    site: 'http://amursma.ru'
+-
+    org_id: 29
+    site: 'http://www.amursu.ru/index.php?lang=ru'
+-
+    org_id: 30
+    site: 'http://www.angtu.ru'
+-
+    org_id: 33
+    site: 'http://www.agpu.net'
+-
+    org_id: 34
+    site: 'http://www.agsi.ru'
+-
+    org_id: 36
+    site: 'http://www.nsmu.ru'
+-
+    org_id: 37
+    site: 'http://narfu.ru'
+-
+    org_id: 38
+    site: 'http://www.astracons.ru'
+-
+    org_id: 39
+    site: 'http://astgmu.ru/'
+-
+    org_id: 40
+    site: 'http://asu.edu.ru/'
+-
+    org_id: 41
+    site: 'http://www.astu.org'
+-
+    org_id: 42
+    site: 'https://www.aucu.ru'
+-
+    org_id: 47
+    site: 'http://www.voenmeh.ru'
+-
+    org_id: 51
+    site: 'https://www.altspu.ru'
+-
+    org_id: 52
+    site: 'http://www.bagsurb.ru'
+-
+    org_id: 53
+    site: 'http://www.bsau.ru'
+-
+    org_id: 54
+    site: 'http://www.bashgmu.ru'
+-
+    org_id: 55
+    site: 'http://bspu.ru/'
+-
+    org_id: 56
+    site: 'https://uust.ru/'
+-
+    org_id: 57
+    site: 'http://bsaa.edu.ru'
+-
+    org_id: 58
+    site: 'http://www.bstu.ru'
+-
+    org_id: 59
+    site: 'http://www.bukep.ru'
+-
+    org_id: 60
+    site: www.bsu.edu.ru
+-
+    org_id: 62
+    site: 'http://www2.bigpi.biysk.ru/wwwsite/news.php'
+-
+    org_id: 63
+    site: 'http://www.pgusa.ru'
+-
+    org_id: 64
+    site: 'http://www.birsk.ru'
+-
+    org_id: 65
+    site: 'http://www.bgpu.ru/index.jsp'
+-
+    org_id: 66
+    site: 'http://www.bgpi.ru'
+-
+    org_id: 67
+    site: 'https://www.brstu.ru/'
+-
+    org_id: 68
+    site: 'https://www.bgita.ru'
+-
+    org_id: 69
+    site: 'http://www.bgsha.com/ru/index.php'
+-
+    org_id: 70
+    site: 'http://www.brgu.ru'
+-
+    org_id: 71
+    site: 'http://www.tu-bryansk.ru/'
+-
+    org_id: 72
+    site: 'http://www.bgsha.ru'
+-
+    org_id: 73
+    site: 'http://www.bsu.ru'
+-
+    org_id: 75
+    site: 'http://www.vgsa.ru'
+-
+    org_id: 76
+    site: 'http://www.vlgafc.ru/about/'
+-
+    org_id: 78
+    site: 'http://www.vgmu.ru'
+-
+    org_id: 79
+    site: 'http://www.vvsu.ru'
+-
+    org_id: 80
+    site: 'http://www.viu-online.ru'
+-
+    org_id: 82
+    site: 'http://www.vlsu.ru'
+-
+    org_id: 86
+    site: 'https://niu.ranepa.ru/'
+-
+    org_id: 87
+    site: 'http://vlgr.ranepa.ru'
+-
+    org_id: 88
+    site: 'http://www.vgafk.ru'
+-
+    org_id: 90
+    site: 'http://www.volgmed.ru'
+-
+    org_id: 91
+    site: 'http://www.volgau.com'
+-
+    org_id: 92
+    site: 'http://www.vspu.ru'
+-
+    org_id: 93
+    site: 'http://www.vstu.ru'
+-
+    org_id: 94
+    site: 'http://www.volsu.ru'
+-
+    org_id: 96
+    site: 'http://serebryakovka.ru'
+-
+    org_id: 97
+    site: 'http://vgavt-nn.ru/'
+-
+    org_id: 99
+    site: 'http://molochnoe.ru'
+-
+    org_id: 101
+    site: 'https://vogu35.ru/'
+-
+    org_id: 105
+    site: 'http://www.vglta.vrn.ru'
+-
+    org_id: 106
+    site: 'http://vsmaburdenko.ru'
+-
+    org_id: 107
+    site: 'http://www.vsuet.ru'
+-
+    org_id: 108
+    site: 'http://www.vsau.ru'
+-
+    org_id: 109
+    site: 'http://voronezharts.ru'
+-
+    org_id: 110
+    site: 'http://www.vspu.ac.ru'
+-
+    org_id: 111
+    site: 'http://www.vorstu.ru'
+-
+    org_id: 112
+    site: 'http://www.vsu.ru'
+-
+    org_id: 114
+    site: 'http://www.viesm.vrn.ru'
+-
+    org_id: 115
+    site: 'http://www.vsgaki.ru'
+-
+    org_id: 116
+    site: 'http://esstu.ru/uportal/index.htm'
+-
+    org_id: 118
+    site: 'http://www.vegu.ru'
+-
+    org_id: 119
+    site: 'http://www.orun.ru'
+-
+    org_id: 120
+    site: 'http://www.vavt.ru'
+-
+    org_id: 121
+    site: 'http://www.vgik.info'
+-
+    org_id: 129
+    site: 'http://www.vschoolmus.ru'
+-
+    org_id: 131
+    site: 'http://www.hse.ru/'
+-
+    org_id: 133
+    site: 'http://shepkinskoe.ru'
+-
+    org_id: 134
+    site: 'http://www.htvs.ru'
+-
+    org_id: 135
+    site: 'http://www.kigit.ru'
+-
+    org_id: 142
+    site: 'http://www.vgsha.info/'
+-
+    org_id: 144
+    site: 'http://www.vyatsu.ru'
+-
+    org_id: 147
+    site: 'http://ggpi.org/news.php'
+-
+    org_id: 148
+    site: 'http://www.gasu.ru'
+-
+    org_id: 149
+    site: www.gorskigau.com
+-
+    org_id: 150
+    site: 'http://www.gubkin.ru'
+-
+    org_id: 151
+    site: 'http://rguts.ru'
+-
+    org_id: 152
+    site: 'https://guu.ru/'
+-
+    org_id: 155
+    site: ippolitovka.ru
+-
+    org_id: 156
+    site: 'http://www.rgsai.ru'
+-
+    org_id: 157
+    site: 'http://www.guz.ru'
+-
+    org_id: 158
+    site: 'http://www.gstou.ru'
+-
+    org_id: 166
+    site: www.gitr.ru
+-
+    org_id: 167
+    site: 'http://www.gu-ural.ru'
+-
+    org_id: 168
+    site: 'http://www.dgma.ru'
+-
+    org_id: 169
+    site: 'https://даггау.рф/'
+-
+    org_id: 172
+    site: 'https://dspu.ru/'
+-
+    org_id: 173
+    site: 'http://dstu.ru'
+-
+    org_id: 174
+    site: 'http://www.dgu.ru'
+-
+    org_id: 175
+    site: 'https://dviu.ranepa.ru'
+-
+    org_id: 179
+    site: 'http://www.msun.ru'
+-
+    org_id: 180
+    site: 'http://dalgau.ru'
+-
+    org_id: 181
+    site: 'http://www.dv-art.ru'
+-
+    org_id: 182
+    site: 'http://www.fesmu.ru'
+-
+    org_id: 183
+    site: 'http://www.dalrybvtuz.ru'
+-
+    org_id: 185
+    site: 'http://dvfu.ru/'
+-
+    org_id: 186
+    site: 'http://www.dvgups.ru'
+-
+    org_id: 191
+    site: 'https://www.diik.3dn.ru'
+-
+    org_id: 192
+    site: 'http://dipacademy.ru/'
+-
+    org_id: 193
+    site: 'http://www.sssu.ru'
+-
+    org_id: 194
+    site: 'http://dongau.ru'
+-
+    org_id: 195
+    site: 'http://www.donstu.ru'
+-
+    org_id: 198
+    site: 'http://www.egti.ru'
+-
+    org_id: 199
+    site: 'http://www.ims-ural.ru'
+-
+    org_id: 200
+    site: 'http://kpfu.ru/elabuga'
+-
+    org_id: 201
+    site: 'http://www.elsu.ru'
+-
+    org_id: 202
+    site: 'http://eiubp.ru'
+-
+    org_id: 203
+    site: 'http://www.wuiel.ru'
+-
+    org_id: 205
+    site: 'http://ivgpu.com'
+-
+    org_id: 206
+    site: 'http://isma.ivanovo.ru'
+-
+    org_id: 207
+    site: 'http://ivgsha.ru'
+-
+    org_id: 209
+    site: www.isuct.ru
+-
+    org_id: 210
+    site: 'http://ivanovo.ac.ru'
+-
+    org_id: 211
+    site: 'http://ispu.ru'
+-
+    org_id: 214
+    site: 'http://www.igma.ru'
+-
+    org_id: 215
+    site: 'http://www.izhgsha.ru'
+-
+    org_id: 216
+    site: 'http://www.istu.ru'
+-
+    org_id: 217
+    site: 'http://www.inggu.ru'
+-
+    org_id: 219
+    site: 'http://www.rgis.ru'
+-
+    org_id: 235
+    site: www.igumo.ru
+-
+    org_id: 241
+    site: 'http://www.ifl.ru'
+-
+    org_id: 242
+    site: 'http://www.mfua.ru'
+-
+    org_id: 244
+    site: 'http://иитэм.рф'
+-
+    org_id: 253
+    site: 'http://www.iile.ru'
+-
+    org_id: 254
+    site: 'http://www.imtp.ru'
+-
+    org_id: 255
+    site: 'http://imes.su'
+-
+    org_id: 261
+    site: 'http://www.mosgu.ru/abit/index.php'
+-
+    org_id: 262
+    site: 'http://www.dgunh.ru'
+-
+    org_id: 279
+    site: 'http://www.isi-vuz.ru'
+-
+    org_id: 283
+    site: 'http://www.isgz.ru'
+-
+    org_id: 284
+    site: 'http://www.socius.ru'
+-
+    org_id: 291
+    site: 'http://miuarh.ru'
+-
+    org_id: 292
+    site: 'http://www.ifip05.ru'
+-
+    org_id: 294
+    site: 'http://www.spbume.ru'
+-
+    org_id: 295
+    site: 'http://www.inueco.ru'
+-
+    org_id: 296
+    site: 'http://piubp.ru/ '
+-
+    org_id: 297
+    site: 'http://www.iubip.ru'
+-
+    org_id: 304
+    site: 'http://institut-nazran.ru'
+-
+    org_id: 307
+    site: 'http://www.ieml.ru'
+-
+    org_id: 317
+    site: 'http://irsau.ru'
+-
+    org_id: 318
+    site: 'http://bgu.ru/'
+-
+    org_id: 319
+    site: 'http://mir.ismu.baikal.ru'
+-
+    org_id: 322
+    site: 'http://www.istu.edu'
+-
+    org_id: 323
+    site: www.isu.ru
+-
+    org_id: 324
+    site: 'http://www.irgups.ru'
+-
+    org_id: 325
+    site: www.ishim.utmn.ru
+-
+    org_id: 326
+    site: 'http://www.kbgau.ru'
+-
+    org_id: 327
+    site: 'https://www.kbsu.ru'
+-
+    org_id: 328
+    site: 'http://www.ksavm.senet.ru'
+-
+    org_id: 329
+    site: 'http://www.kazgik.ru'
+-
+    org_id: 330
+    site: 'http://www.kgasu.ru'
+-
+    org_id: 331
+    site: 'https://kazancons.ru/'
+-
+    org_id: 332
+    site: 'http://www.kazgau.ru'
+-
+    org_id: 333
+    site: 'http://www.kazangmu.ru'
+-
+    org_id: 335
+    site: 'http://www.kai.ru'
+-
+    org_id: 336
+    site: 'http://www.kstu.ru'
+-
+    org_id: 337
+    site: 'http://kpfu.ru'
+-
+    org_id: 340
+    site: 'http://www.klgtu.ru'
+-
+    org_id: 341
+    site: 'http://www.kantiana.ru'
+-
+    org_id: 342
+    site: 'http://www.kalmsu.ru'
+-
+    org_id: 343
+    site: 'https://tksu.ru/'
+-
+    org_id: 345
+    site: 'http://kamgu.ru'
+-
+    org_id: 346
+    site: 'http://kchgu.ru'
+-
+    org_id: 347
+    site: 'http://www.kchgta.ru'
+-
+    org_id: 349
+    site: 'https://kemsmu.ru/'
+-
+    org_id: 350
+    site: 'http://www.kemguki.ru'
+-
+    org_id: 351
+    site: 'http://www.kemsu.ru/Page/Main'
+-
+    org_id: 353
+    site: 'http://www.kirovgma.ru'
+-
+    org_id: 355
+    site: 'http://www.dksta.ru'
+-
+    org_id: 362
+    site: 'https://gukolomna.ru/'
+-
+    org_id: 365
+    site: 'http://www.amgpgu.ru'
+-
+    org_id: 366
+    site: 'http://www.knastu.ru'
+-
+    org_id: 367
+    site: 'http://kgsxa.ru'
+-
+    org_id: 368
+    site: 'http://www.ksu.edu.ru'
+-
+    org_id: 370
+    site: 'https://kgik1966.ru/'
+-
+    org_id: 374
+    site: 'https://krasgmu.ru/'
+-
+    org_id: 376
+    site: 'http://www.kgau.ru'
+-
+    org_id: 377
+    site: 'http://www.kgii.ru'
+-
+    org_id: 378
+    site: 'http://www.kspu.ru'
+-
+    org_id: 381
+    site: 'http://www.sfu-kras.ru'
+-
+    org_id: 383
+    site: www.kgufkst.ru
+-
+    org_id: 384
+    site: www.ksma.ru
+-
+    org_id: 385
+    site: 'http://kubstu.ru'
+-
+    org_id: 386
+    site: 'http://www.kubsau.ru'
+-
+    org_id: 387
+    site: 'http://www.kubsu.ru'
+-
+    org_id: 389
+    site: 'http://kuzstu.ru'
+-
+    org_id: 392
+    site: 'http://www.kgsu.ru'
+-
+    org_id: 394
+    site: 'http://www.kgsha.ru'
+-
+    org_id: 395
+    site: 'http://www.kurskmed.com'
+-
+    org_id: 396
+    site: 'http://kursksu.ru'
+-
+    org_id: 397
+    site: 'http://www.swsu.ru'
+-
+    org_id: 399
+    site: 'http://www.lengu.ru'
+-
+    org_id: 400
+    site: 'http://lspu.lipetsk.ru'
+-
+    org_id: 401
+    site: 'http://www.stu.lipetsk.ru'
+-
+    org_id: 402
+    site: 'http://www.лэги48.рф'
+-
+    org_id: 403
+    site: 'http://www.litinstitut.ru'
+-
+    org_id: 405
+    site: 'http://www.magtu.ru'
+-
+    org_id: 406
+    site: 'http://www.magkmusic.com'
+-
+    org_id: 408
+    site: 'http://www.mkgtu.ru'
+-
+    org_id: 410
+    site: 'http://www.volgatech.net'
+-
+    org_id: 411
+    site: 'http://www.marsu.ru'
+-
+    org_id: 412
+    site: 'http://www.taom.ru'
+-
+    org_id: 416
+    site: 'http://www.ibi.spb.ru'
+-
+    org_id: 419
+    site: 'http://www.imi-samara.ru'
+-
+    org_id: 420
+    site: 'http://www.miep.ru'
+-
+    org_id: 423
+    site: 'http://www.svgu.ru'
+-
+    org_id: 425
+    site: 'http://slavinst.ru/'
+-
+    org_id: 426
+    site: 'http://www.interun.ru'
+-
+    org_id: 427
+    site: 'http://www.mubint.ru'
+-
+    org_id: 428
+    site: 'http://www.mabiu.ru'
+-
+    org_id: 429
+    site: 'http://www.vivt.ru'
+-
+    org_id: 430
+    site: 'http://www.iict.ru'
+-
+    org_id: 431
+    site: 'http://uni-dubna.ru/'
+-
+    org_id: 433
+    site: 'http://www.mirbis.ru'
+-
+    org_id: 436
+    site: 'http://www.mgau.ru/#&panel1-3'
+-
+    org_id: 439
+    site: 'http://www.mordgpi.ru'
+-
+    org_id: 440
+    site: 'http://www.mrsu.ru'
+-
+    org_id: 445
+    site: 'http://mospolytech.ru/'
+-
+    org_id: 446
+    site: 'http://www.mgavm.ru'
+-
+    org_id: 448
+    site: 'http://www.mgudt.ru'
+-
+    org_id: 451
+    site: 'http://www.mgafk.ru'
+-
+    org_id: 453
+    site: 'http://www.balletacademy.ru'
+-
+    org_id: 454
+    site: 'http://www.msgpa.ru'
+-
+    org_id: 456
+    site: 'http://www.msal.ru'
+-
+    org_id: 457
+    site: 'http://mosconsv.ru'
+-
+    org_id: 458
+    site: 'http://www.mma.ru'
+-
+    org_id: 460
+    site: www.timacad.ru
+-
+    org_id: 461
+    site: 'http://www.marhi.ru'
+-
+    org_id: 464
+    site: 'http://www.mgpu.ru'
+-
+    org_id: 465
+    site: 'http://www.mai.ru'
+-
+    org_id: 466
+    site: 'http://www.madi.ru'
+-
+    org_id: 471
+    site: 'http://mgutm.ru'
+-
+    org_id: 473
+    site: 'http://www.mephi.ru'
+-
+    org_id: 474
+    site: 'http://www.mgimo.ru'
+-
+    org_id: 475
+    site: 'https://www.mirea.ru'
+-
+    org_id: 476
+    site: 'http://www.misis.ru'
+-
+    org_id: 478
+    site: 'http://www.miet.ru'
+-
+    org_id: 479
+    site: 'http://www.linguanet.ru'
+-
+    org_id: 480
+    site: 'http://www.schnittke-mgim.ru'
+-
+    org_id: 483
+    site: 'http://www.rgsu.net'
+-
+    org_id: 484
+    site: 'http://www.mgsu.ru'
+-
+    org_id: 485
+    site: 'https://www.mstuca.ru'
+-
+    org_id: 486
+    site: 'http://www.bmstu.ru'
+-
+    org_id: 487
+    site: 'http://stankin.ru'
+-
+    org_id: 488
+    site: 'http://www.msu.ru'
+-
+    org_id: 489
+    site: 'http://www.miigaik.ru'
+-
+    org_id: 491
+    site: 'http://mgik.org'
+-
+    org_id: 494
+    site: 'http://www.mgupp.ru'
+-
+    org_id: 497
+    site: 'http://www.miit.ru'
+-
+    org_id: 499
+    site: 'http://www.mghpu.ru'
+-
+    org_id: 500
+    site: 'http://mgei.ru'
+-
+    org_id: 502
+    site: 'http://mggeu.ru/'
+-
+    org_id: 506
+    site: 'http://www.muiv.ru'
+-
+    org_id: 507
+    site: 'http://www.miepl.ru'
+-
+    org_id: 508
+    site: 'http://www.msmsu.ru'
+-
+    org_id: 512
+    site: 'http://мпгу.рф'
+-
+    org_id: 513
+    site: guppros.ru
+-
+    org_id: 514
+    site: 'http://www.mpsu.ru'
+-
+    org_id: 517
+    site: 'http://www.mtuci.ru'
+-
+    org_id: 519
+    site: 'http://www.ruc.su'
+-
+    org_id: 520
+    site: 'http://mipt.ru/'
+-
+    org_id: 521
+    site: 'http://www.noumei.ru'
+-
+    org_id: 522
+    site: 'http://www.mpei.ru/mainpage.asp'
+-
+    org_id: 523
+    site: 'http://www.mspu.edu.ru'
+-
+    org_id: 524
+    site: 'http://www.mstu.edu.ru'
+-
+    org_id: 526
+    site: 'http://maem.ru'
+-
+    org_id: 527
+    site: 'http://tatngpi.ru'
+-
+    org_id: 528
+    site: 'http://www.nibmoscow.ru'
+-
+    org_id: 531
+    site: 'http://www.nngasu.ru'
+-
+    org_id: 532
+    site: 'https://pimunn.ru/'
+-
+    org_id: 533
+    site: 'http://www.nnsaa.ru'
+-
+    org_id: 534
+    site: 'http://nnovcons.ru'
+-
+    org_id: 535
+    site: 'http://www.lunn.ru'
+-
+    org_id: 536
+    site: 'http://www.mininuniver.ru'
+-
+    org_id: 537
+    site: 'http://www.nntu.ru'
+-
+    org_id: 538
+    site: 'http://www.unn.ru'
+-
+    org_id: 541
+    site: 'http://www.nggu.ru'
+-
+    org_id: 542
+    site: www.rsvpu.ru
+-
+    org_id: 544
+    site: 'http://www.novsu.ru'
+-
+    org_id: 545
+    site: 'http://www.nkfi.ru'
+-
+    org_id: 547
+    site: 'http://www.aumsu.ru'
+-
+    org_id: 548
+    site: 'http://www.nsawt.ru'
+-
+    org_id: 549
+    site: 'http://www.sibstrin.ru'
+-
+    org_id: 550
+    site: www.nsuem.ru
+-
+    org_id: 551
+    site: www.nsuada.ru
+-
+    org_id: 552
+    site: 'http://www.nsglinka.ru'
+-
+    org_id: 553
+    site: 'http://nsau.edu.ru'
+-
+    org_id: 554
+    site: 'http://www.ngmu.ru'
+-
+    org_id: 555
+    site: 'http://www.nspu.ru'
+-
+    org_id: 556
+    site: 'http://www.nstu.ru'
+-
+    org_id: 557
+    site: 'http://www.nsu.ru'
+-
+    org_id: 560
+    site: 'http://www.ngma.su'
+-
+    org_id: 561
+    site: 'http://www.npi-tu.ru'
+-
+    org_id: 562
+    site: 'http://www.norvuz.ru/index.php?lang=ru'
+-
+    org_id: 565
+    site: www.сгти.рф
+-
+    org_id: 566
+    site: 'http://www.iate.obninsk.ru'
+-
+    org_id: 568
+    site: www.omgups.ru
+-
+    org_id: 569
+    site: 'http://www.omsk-osma.ru'
+-
+    org_id: 570
+    site: 'http://omgau.ru'
+-
+    org_id: 571
+    site: 'http://www.omgpu.ru'
+-
+    org_id: 572
+    site: 'https://omgtu.ru/'
+-
+    org_id: 573
+    site: 'http://www.omsu.ru/page.php?id='
+-
+    org_id: 576
+    site: 'http://www.orgma.ru'
+-
+    org_id: 577
+    site: 'http://orensau.ru'
+-
+    org_id: 578
+    site: 'http://www.ospu.ru'
+-
+    org_id: 579
+    site: 'http://www.osu.ru'
+-
+    org_id: 581
+    site: 'http://www.mgogi.ru'
+-
+    org_id: 582
+    site: 'http://www.orelsau.ru'
+-
+    org_id: 583
+    site: 'http://www.ogiik.orel.ru'
+-
+    org_id: 585
+    site: 'http://oreluniver.ru/'
+-
+    org_id: 589
+    site: 'http://www.pguas.ru'
+-
+    org_id: 590
+    site: 'http://pgsha.penza.net/'
+-
+    org_id: 592
+    site: 'http://www.pnzgu.ru'
+-
+    org_id: 594
+    site: 'http://www.psma.ru'
+-
+    org_id: 595
+    site: 'http://pgsha.ru/web/today/'
+-
+    org_id: 596
+    site: 'http://www.pfa.ru'
+-
+    org_id: 597
+    site: 'http://www.psiac.ru'
+-
+    org_id: 598
+    site: 'http://pspu.ru/university'
+-
+    org_id: 599
+    site: 'http://pstu.ru'
+-
+    org_id: 600
+    site: 'http://www.psu.ru'
+-
+    org_id: 602
+    site: 'http://glazunovcons.ru'
+-
+    org_id: 603
+    site: 'http://www.petrsu.ru'
+-
+    org_id: 604
+    site: 'http://www.kamchatgtu.ru'
+-
+    org_id: 605
+    site: 'http://piu.ranepa.ru'
+-
+    org_id: 607
+    site: www.psuti.ru
+-
+    org_id: 610
+    site: 'http://pstgu.ru'
+-
+    org_id: 612
+    site: 'http://www.primacad.ru'
+-
+    org_id: 615
+    site: 'http://www.pushgu.ru'
+-
+    org_id: 616
+    site: 'http://www.pmedpharm.ru'
+-
+    org_id: 617
+    site: 'http://pglu.ru'
+-
+    org_id: 618
+    site: 'http://www.rosi-edu.ru'
+-
+    org_id: 620
+    site: 'https://gaugn.ru/'
+-
+    org_id: 622
+    site: 'http://www.glazunov-academy.ru'
+-
+    org_id: 623
+    site: 'http://www.gnesin-academy.ru'
+-
+    org_id: 625
+    site: 'http://www.gitis.net'
+-
+    org_id: 626
+    site: 'http://www.sportedu.ru/'
+-
+    org_id: 627
+    site: 'http://www.rmat.ru'
+-
+    org_id: 628
+    site: 'http://rpa-mu.ru/'
+-
+    org_id: 629
+    site: 'https://academy.customs.gov.ru/'
+-
+    org_id: 630
+    site: www.privlaw.ru
+-
+    org_id: 631
+    site: 'http://www.rea.ru'
+-
+    org_id: 632
+    site: 'http://www.rgazu.ru'
+-
+    org_id: 633
+    site: 'http://www.rshu.ru'
+-
+    org_id: 634
+    site: 'http://www.rsuh.ru'
+-
+    org_id: 635
+    site: 'http://rsmu.ru'
+-
+    org_id: 637
+    site: www.herzen.spb.ru
+-
+    org_id: 639
+    site: 'http://www.rgiis.ru'
+-
+    org_id: 640
+    site: www.rosnou.ru
+-
+    org_id: 641
+    site: 'http://www.rudn.ru/'
+-
+    org_id: 642
+    site: 'http://www.muctr.ru'
+-
+    org_id: 643
+    site: 'http://rostcons.ru'
+-
+    org_id: 644
+    site: 'https://rsue.ru/'
+-
+    org_id: 648
+    site: 'http://rostgmu.ru'
+-
+    org_id: 650
+    site: 'http://www.sfedu.ru'
+-
+    org_id: 651
+    site: 'http://www.rgups.ru'
+-
+    org_id: 656
+    site: 'http://www.rhga.ru'
+-
+    org_id: 657
+    site: 'http://www.rsatu.ru'
+-
+    org_id: 658
+    site: 'http://www.rsreu.ru'
+-
+    org_id: 659
+    site: 'http://www.rgatu.ru/'
+-
+    org_id: 660
+    site: 'http://www.rzgmu.ru'
+-
+    org_id: 661
+    site: 'http://www.rsu.edu.ru'
+-
+    org_id: 662
+    site: 'http://www.smrgaki.ru'
+-
+    org_id: 664
+    site: 'http://www.ssaa.ru/'
+-
+    org_id: 665
+    site: 'http://www.sseu.ru'
+-
+    org_id: 667
+    site: 'http://www.ssau.ru'
+-
+    org_id: 668
+    site: 'http://www.samsmu.ru'
+-
+    org_id: 669
+    site: 'http://www.pgsga.ru'
+-
+    org_id: 670
+    site: 'http://www.samgtu.ru/'
+-
+    org_id: 672
+    site: 'http://www.samgups.ru'
+-
+    org_id: 674
+    site: 'http://www.reaviz.ru'
+-
+    org_id: 677
+    site: 'http://guap.ru/guap/main/rect_main.shtml'
+-
+    org_id: 678
+    site: 'http://www.spbgavm.ru'
+-
+    org_id: 679
+    site: 'http://www.spbgik.ru'
+-
+    org_id: 680
+    site: 'http://www.rgisi.ru'
+-
+    org_id: 681
+    site: 'http://www.lesgaft.spb.ru'
+-
+    org_id: 684
+    site: 'http://www.conservatory.ru'
+-
+    org_id: 685
+    site: 'http://szgmu.ru'
+-
+    org_id: 686
+    site: 'https://gpma.ru'
+-
+    org_id: 687
+    site: 'http://www.spcpa.ru'
+-
+    org_id: 688
+    site: 'http://ghpa.ru'
+-
+    org_id: 689
+    site: 'http://spbftu.ru'
+-
+    org_id: 690
+    site: 'http://www.artsacademy.ru'
+-
+    org_id: 691
+    site: 'http://spbgau.ru'
+-
+    org_id: 692
+    site: 'http://www.spbgasu.ru/'
+-
+    org_id: 693
+    site: 'http://spmi.ru'
+-
+    org_id: 694
+    site: 'http://www.ifmo.ru'
+-
+    org_id: 695
+    site: 'http://www.1spbgmu.ru'
+-
+    org_id: 696
+    site: 'http://www.smtu.ru'
+-
+    org_id: 697
+    site: 'http://www.spbstu.ru/'
+-
+    org_id: 698
+    site: 'http://technolog.edu.ru/ru/'
+-
+    org_id: 700
+    site: 'http://spbu.ru'
+-
+    org_id: 701
+    site: 'http://gumrf.ru'
+-
+    org_id: 702
+    site: 'http://sut.ru'
+-
+    org_id: 703
+    site: 'http://sutd.ru'
+-
+    org_id: 704
+    site: 'http://www.eltech.ru'
+-
+    org_id: 705
+    site: 'http://www.gup.ru'
+-
+    org_id: 707
+    site: 'http://www.gukit.ru'
+-
+    org_id: 712
+    site: 'http://www.psysocwork.ru'
+-
+    org_id: 714
+    site: 'http://unecon.ru'
+-
+    org_id: 717
+    site: 'http://www.сгюа.рф'
+-
+    org_id: 718
+    site: 'http://www.sarcons.ru/'
+-
+    org_id: 719
+    site: www.sgau.ru
+-
+    org_id: 722
+    site: 'http://www.sgmu.ru'
+-
+    org_id: 724
+    site: 'http://www.sstu.ru'
+-
+    org_id: 725
+    site: 'http://www.sgu.ru'
+-
+    org_id: 726
+    site: 'https://ноусип.рф'
+-
+    org_id: 727
+    site: 'https://spb.ranepa.ru/'
+-
+    org_id: 730
+    site: 'http://uriu.ranepa.ru'
+-
+    org_id: 731
+    site: 'http://www.skgii.ru'
+-
+    org_id: 732
+    site: www.skgmi-gtu.ru
+-
+    org_id: 734
+    site: 'http://sogma.ru'
+-
+    org_id: 735
+    site: 'http://www.nosu.ru'
+-
+    org_id: 736
+    site: 'http://siu.ranepa.ru'
+-
+    org_id: 737
+    site: 'http://www.sibsau.ru'
+-
+    org_id: 738
+    site: 'http://www.stu.ru'
+-
+    org_id: 739
+    site: 'https://www.sibsutis.ru'
+-
+    org_id: 740
+    site: www.sibsport.ru
+-
+    org_id: 741
+    site: 'http://www.ssga.ru'
+-
+    org_id: 743
+    site: 'http://www.sibupk.nsk.su'
+-
+    org_id: 744
+    site: 'http://www.sibadi.org'
+-
+    org_id: 745
+    site: 'http://www.ssmu.ru'
+-
+    org_id: 746
+    site: www.sibit.sano.ru
+-
+    org_id: 747
+    site: 'http://www.sibup.ru'
+-
+    org_id: 751
+    site: 'http://www.smolgmu.ru'
+-
+    org_id: 752
+    site: 'http://sgii-smol.ru'
+-
+    org_id: 753
+    site: 'http://www.sgafkst.ru'
+-
+    org_id: 754
+    site: 'http://www.smolgu.ru/'
+-
+    org_id: 756
+    site: 'http://www.fa.ru/fil/smolensk'
+-
+    org_id: 757
+    site: 'http://www.sgsha.ru'
+-
+    org_id: 759
+    site: 'http://www.solgpi.ru'
+-
+    org_id: 761
+    site: 'http://www.sutr.ru'
+-
+    org_id: 763
+    site: 'http://www.stgmu.ru'
+-
+    org_id: 764
+    site: 'http://www.stgau.ru'
+-
+    org_id: 765
+    site: 'http://www.ncfu.ru'
+-
+    org_id: 771
+    site: 'http://www.surgpu.ru'
+-
+    org_id: 772
+    site: 'http://www.surgu.ru'
+-
+    org_id: 773
+    site: 'http://www.syktsu.ru'
+-
+    org_id: 774
+    site: 'http://tgpi.ru'
+-
+    org_id: 775
+    site: ''
+-
+    org_id: 776
+    site: 'http://www.tmei.ru'
+-
+    org_id: 777
+    site: 'http://www.rachmaninov.ru'
+-
+    org_id: 778
+    site: 'http://www.tstu.ru'
+-
+    org_id: 779
+    site: 'http://www.tsutmb.ru'
+-
+    org_id: 781
+    site: 'https://www.tisbi.ru/'
+-
+    org_id: 782
+    site: 'https://tvgmu.ru/'
+-
+    org_id: 783
+    site: 'http://www.tvgsha.ru'
+-
+    org_id: 784
+    site: 'http://www.tstu.tver.ru'
+-
+    org_id: 785
+    site: 'http://university.tversu.ru'
+-
+    org_id: 787
+    site: 'http://www.vshpi.com'
+-
+    org_id: 790
+    site: 'http://www.tltsu.ru'
+-
+    org_id: 791
+    site: 'http://www.tusur.ru'
+-
+    org_id: 792
+    site: 'http://www.tsuab.ru'
+-
+    org_id: 794
+    site: 'http://www.tspu.edu.ru'
+-
+    org_id: 795
+    site: 'http://tsu.ru'
+-
+    org_id: 796
+    site: 'https://tpu.ru/'
+-
+    org_id: 797
+    site: 'https://www.tsput.ru/'
+-
+    org_id: 798
+    site: 'http://tsu.tula.ru'
+-
+    org_id: 799
+    site: 'http://www.tuvsu.ru'
+-
+    org_id: 801
+    site: 'http://www.tyumsmu.ru'
+-
+    org_id: 802
+    site: 'http://www.tsaa.ru'
+-
+    org_id: 803
+    site: 'http://tsiac.ru'
+-
+    org_id: 804
+    site: 'http://www.tyuiu.ru'
+-
+    org_id: 805
+    site: 'http://www.utmn.ru'
+-
+    org_id: 807
+    site: 'http://udsu.ru'
+-
+    org_id: 808
+    site: 'http://www.ugsha.ru'
+-
+    org_id: 809
+    site: 'http://www.ulspu.ru'
+-
+    org_id: 810
+    site: 'http://www.ulstu.ru'
+-
+    org_id: 811
+    site: 'http://ulsu.ru'
+-
+    org_id: 812
+    site: 'http://www.uvauga.ru'
+-
+    org_id: 818
+    site: 'http://ui.ranepa.ru'
+-
+    org_id: 819
+    site: 'https://www.usurt.ru/'
+-
+    org_id: 820
+    site: 'http://www.uralgufk.ru'
+-
+    org_id: 821
+    site: 'http://www.usaaa.ru'
+-
+    org_id: 822
+    site: 'http://www.ursmu.ru'
+-
+    org_id: 823
+    site: 'http://uralconsv.org/'
+-
+    org_id: 824
+    site: 'http://www.usfeu.ru'
+-
+    org_id: 825
+    site: 'http://www.usma.ru'
+-
+    org_id: 826
+    site: 'http://www.urgau.ru'
+-
+    org_id: 827
+    site: 'http://www.usla.ru'
+-
+    org_id: 828
+    site: 'http://юургау.рф'
+-
+    org_id: 829
+    site: 'http://uspu.ru'
+-
+    org_id: 830
+    site: www.rsvpu.ru
+-
+    org_id: 831
+    site: 'http://urfu.ru/ru/'
+-
+    org_id: 833
+    site: 'http://www.usue.ru'
+-
+    org_id: 837
+    site: 'http://www.uifr.ru'
+-
+    org_id: 838
+    site: 'http://www.urep.ru'
+-
+    org_id: 845
+    site: 'http://www.rusoil.net'
+-
+    org_id: 846
+    site: 'http://www.ufaart.ru'
+-
+    org_id: 847
+    site: 'http://www.ugtu.net'
+-
+    org_id: 848
+    site: 'http://www.fa.ru/Pages/home.aspx'
+-
+    org_id: 850
+    site: 'http://www.ael.ru'
+-
+    org_id: 851
+    site: 'http://www.hgiik.ru'
+-
+    org_id: 852
+    site: 'http://dvgafk.com'
+-
+    org_id: 854
+    site: 'http://pnu.edu.ru/ru/'
+-
+    org_id: 855
+    site: 'http://www.khsu.ru'
+-
+    org_id: 859
+    site: 'https://chgafkis.ru/'
+-
+    org_id: 860
+    site: 'http://www.chelsma.ru'
+-
+    org_id: 861
+    site: 'http://rbiu.ru'
+-
+    org_id: 863
+    site: 'http://www.chgaki.ru'
+-
+    org_id: 864
+    site: 'http://www.cspu.ru'
+-
+    org_id: 865
+    site: 'http://www.susu.ru'
+-
+    org_id: 866
+    site: 'https://www.csu.ru'
+-
+    org_id: 867
+    site: 'http://uyrgii.ru'
+-
+    org_id: 868
+    site: 'http://www.chsu.ru'
+-
+    org_id: 869
+    site: 'http://www.chspu.ru'
+-
+    org_id: 870
+    site: 'http://www.chesu.ru'
+-
+    org_id: 871
+    site: 'https://www.chitgma.ru'
+-
+    org_id: 873
+    site: 'http://www.zabgu.ru'
+-
+    org_id: 874
+    site: 'http://academy21.ru'
+-
+    org_id: 875
+    site: 'http://www.chgpu.edu.ru'
+-
+    org_id: 876
+    site: 'http://www.chuvsu.ru/default.php'
+-
+    org_id: 877
+    site: 'http://shgpi.edu.ru'
+-
+    org_id: 880
+    site: 'http://mhatschool.theatre.ru'
+-
+    org_id: 881
+    site: 'http://sspu.ru'
+-
+    org_id: 885
+    site: 'http://urgi.info'
+-
+    org_id: 887
+    site: 'http://www.sakhgu.ru'
+-
+    org_id: 893
+    site: 'http://s-vfu.ru'
+-
+    org_id: 894
+    site: 'https://ysmu.ru'
+-
+    org_id: 895
+    site: 'http://www.yaragrovuz.ru'
+-
+    org_id: 896
+    site: www.yspu.org
+-
+    org_id: 897
+    site: 'http://www.theatrins-yar.ru/'
+-
+    org_id: 898
+    site: 'http://www.ystu.ru'
+-
+    org_id: 899
+    site: 'http://www.uniyar.ac.ru'
+-
+    org_id: 905
+    site: www.imsit.ru
+-
+    org_id: 917
+    site: www.batp.ru
+-
+    org_id: 919
+    site: 'http://www.sksi.ru'
+-
+    org_id: 921
+    site: 'http://les-sfu.ru'
+-
+    org_id: 922
+    site: 'http://www.mgutu.info'
+-
+    org_id: 929
+    site: 'http://www.mephi.ru'
+-
+    org_id: 930
+    site: 'http://www.sstu.ru'
+-
+    org_id: 931
+    site: 'http://www.hiik.ru'
+-
+    org_id: 932
+    site: 'https://chirt.usurt.ru/'
+-
+    org_id: 933
+    site: 'http://nti.urfu.ru'
+-
+    org_id: 934
+    site: 'http://www.univermvd.ru'
+-
+    org_id: 935
+    site: 'http://www.apingtu.edu.ru'
+-
+    org_id: 937
+    site: 'http://www.bti.secna.ru'
+-
+    org_id: 939
+    site: 'https://www.dpi-ngtu.ru'
+-
+    org_id: 940
+    site: 'http://www.rubinst.ru'
+-
+    org_id: 942
+    site: 'http://nti.s-vfu.ru'
+-
+    org_id: 945
+    site: 'http://www.unimir-ysu.ru'
+-
+    org_id: 947
+    site: 'http://www.of.ugntu.ru/new/'
+-
+    org_id: 948
+    site: 'http://ugntu-str.ru'
+-
+    org_id: 949
+    site: 'http://www.sfugntu.ru'
+-
+    org_id: 953
+    site: 'http://www.mephi.ru'
+-
+    org_id: 954
+    site: 'https://sfsamgtu.ru'
+-
+    org_id: 969
+    site: 'http://www.politech.sbor.ru'
+-
+    org_id: 983
+    site: 'http://www.misaoinst.ru'
+-
+    org_id: 989
+    site: 'http://www.npi-tu.ru'
+-
+    org_id: 990
+    site: 'http://orengubkin.ru/index.php?id=9'
+-
+    org_id: 992
+    site: www.rizp.ru
+-
+    org_id: 993
+    site: 'http://if-mstuca.ru/site/'
+-
+    org_id: 994
+    site: 'http://www.rfmstuca.ru'
+-
+    org_id: 995
+    site: 'http://kfngpu.ru'
+-
+    org_id: 997
+    site: 'http://www.immf.ru'
+-
+    org_id: 1000
+    site: 'https://www.miu-edu.ru'
+-
+    org_id: 1002
+    site: 'http://alsivuz.ru'
+-
+    org_id: 1003
+    site: 'http://www.surikov-vuz.ru'
+-
+    org_id: 1004
+    site: 'http://www.stavik.ru'
+-
+    org_id: 1005
+    site: 'https://kf.spbgau.ru/'
+-
+    org_id: 1007
+    site: 'http://www.mephi.ru'
+-
+    org_id: 1012
+    site: 'http://belovo.ru'
+-
+    org_id: 1020
+    site: 'http://www.idnk.ru'
+-
+    org_id: 1022
+    site: 'http://www.iga.ru'
+-
+    org_id: 1023
+    site: 'http://www.ideka.ru'
+-
+    org_id: 1024
+    site: 'http://tara.omgpu.ru'
+-
+    org_id: 1025
+    site: 'http://www.sli.komi.com'
+-
+    org_id: 1026
+    site: 'http://sf-misis.ru'
+-
+    org_id: 1029
+    site: f-mirea.ru
+-
+    org_id: 1032
+    site: 'http://www.bf.pstu.ru'
+-
+    org_id: 1039
+    site: 'http://uti.tpu.ru'
+-
+    org_id: 1041
+    site: www.bronmadi.ru
+-
+    org_id: 1043
+    site: www.lfsibgu.ru
+-
+    org_id: 1044
+    site: vf-pgups.ru
+-
+    org_id: 1045
+    site: 'http://www.spbrca.ru'
+-
+    org_id: 1046
+    site: 'http://vfrta.ru'
+-
+    org_id: 1047
+    site: 'http://donrta.customs.gov.ru'
+-
+    org_id: 1048
+    site: 'http://www.sibsiu.ru'
+-
+    org_id: 1051
+    site: 'http://nirhtu.ru'
+-
+    org_id: 1052
+    site: 'http://esi.irk.ru'
+-
+    org_id: 1053
+    site: 'http://og-ti.ru'
+-
+    org_id: 1054
+    site: 'https://synergy.ru/'
+-
+    org_id: 1056
+    site: 'http://www.volgograd.ruc.su'
+-
+    org_id: 1059
+    site: 'https://рюи.мвд.рф/'
+-
+    org_id: 1063
+    site: 'http://www.izhevsk.ruc.su'
+-
+    org_id: 1064
+    site: 'http://www.engels.ruc.su'
+-
+    org_id: 1065
+    site: 'http://www.ruc.su'
+-
+    org_id: 1311
+    site: www.vladimir.fa.ru
+-
+    org_id: 1316
+    site: 'http://www.kursk.fa.ru?'
+-
+    org_id: 1317
+    site: www.lipetsk.fa.ru
+-
+    org_id: 1319
+    site: www.orel.fa.ru
+-
+    org_id: 1320
+    site: 'http://www.penza.fa.ru'
+-
+    org_id: 1322
+    site: 'http://www.tula.fa.ru'
+-
+    org_id: 1323
+    site: 'http://www.fa.ru/fil/ufa'
+-
+    org_id: 1324
+    site: 'http://www.fa.ru/fil/chelyabinsk/'
+-
+    org_id: 1325
+    site: 'http://www.fa.ru'
+-
+    org_id: 1327
+    site: 'http://www.novoross.fa.ru/'
+-
+    org_id: 1330
+    site: 'http://www.msalkirov.ru'
+-
+    org_id: 1331
+    site: 'http://vfmgua.ru'
+-
+    org_id: 1332
+    site: 'http://oimsla.edu.ru'
+-
+    org_id: 1333
+    site: 'http://www.chuvsu.ru'
+-
+    org_id: 1361
+    site: 'http://vfmgei.ru'
+-
+    org_id: 1362
+    site: 'http://www.nfmgei.ru'
+-
+    org_id: 1363
+    site: 'http://mgei.kirov.ru'
+-
+    org_id: 1364
+    site: 'http://szfmgei.ru'
+-
+    org_id: 1365
+    site: 'http://mgei-kaluga.ru'
+-
+    org_id: 1368
+    site: 'http://www.nvr-mgei.ru'
+-
+    org_id: 1369
+    site: 'http://www.cfmgei.ru'
+-
+    org_id: 1383
+    site: 'http://anapa.rgsu.net/'
+-
+    org_id: 1403
+    site: mirea.ru
+-
+    org_id: 1404
+    site: 'http://volpi.ru'
+-
+    org_id: 1405
+    site: 'http://www.kti.ru'
+-
+    org_id: 1406
+    site: 'http://hse.ru'
+-
+    org_id: 1412
+    site: 'http://www.vimvd.ru'
+-
+    org_id: 1414
+    site: 'http://aso-ksui.ru'
+-
+    org_id: 1415
+    site: 'http://www.mrsei.ru'
+-
+    org_id: 1433
+    site: 'http://www.sfu-kras.ru'
+-
+    org_id: 1436
+    site: 'http://www.altai.fa.ru'
+-
+    org_id: 1437
+    site: 'http://www.fa.ru/fil/krasnodar/'
+-
+    org_id: 1442
+    site: 'http://nti.ncfu.ru'
+-
+    org_id: 1445
+    site: 'http://pfncfu.ru'
+-
+    org_id: 1450
+    site: 'http://www.bgti.ru'
+-
+    org_id: 1451
+    site: www.privlaw-ural.ru
+-
+    org_id: 1470
+    site: www.e-stankin.ru
+-
+    org_id: 1471
+    site: krasnodar.rea.ru
+-
+    org_id: 1475
+    site: 'http://www.namvd.ru'
+-
+    org_id: 1477
+    site: 'http://www.krags.ru'
+-
+    org_id: 1478
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 1479
+    site: 'http://www.mguu.ru'
+-
+    org_id: 1480
+    site: 'http://www.mgppu.ru'
+-
+    org_id: 1481
+    site: 'http://www.procuror.spb.ru'
+-
+    org_id: 1485
+    site: ''
+-
+    org_id: 1486
+    site: 'http://www.prk.kuzstu.ru'
+-
+    org_id: 1487
+    site: 'http://kuzstu.su/index.php/university.html'
+-
+    org_id: 1489
+    site: 'http://kuzstu-nf.ru'
+-
+    org_id: 1490
+    site: 'http://belovokyzgty.ucoz.ru'
+-
+    org_id: 1494
+    site: 'http://afkras.ru'
+-
+    org_id: 1524
+    site: 'http://www.omamvd.ru'
+-
+    org_id: 1527
+    site: 'http://www.hse.ru/'
+-
+    org_id: 1528
+    site: 'http://www.hse.ru/'
+-
+    org_id: 1529
+    site: 'http://www.skf-mtusi.ru'
+-
+    org_id: 1530
+    site: 'http://www.vvfmtuci.ru'
+-
+    org_id: 1552
+    site: 'http://www.brgu.ru'
+-
+    org_id: 1553
+    site: 'http://www.dstu.ru'
+-
+    org_id: 1562
+    site: www.rgups.ru
+-
+    org_id: 1563
+    site: 'http://lawacademy.spb.ru'
+-
+    org_id: 1564
+    site: 'http://rpa38.ru'
+-
+    org_id: 1566
+    site: 'http://sarrpa.ru'
+-
+    org_id: 1567
+    site: 'http://www.saranskrpa.ru'
+-
+    org_id: 1569
+    site: 'http://www.skfrpa.ru'
+-
+    org_id: 1570
+    site: 'http://tula.rpa-mu.ru'
+-
+    org_id: 1571
+    site: 'http://www.rpa-mu-kf.ru'
+-
+    org_id: 1583
+    site: 'http://www.bfsgu.ru'
+-
+    org_id: 1585
+    site: 'http://narhoz-chita.ru'
+-
+    org_id: 1604
+    site: kaluga.timacad.ru
+-
+    org_id: 1606
+    site: 'http://chel.ranepa.ru'
+-
+    org_id: 1607
+    site: 'http://perm.ranepa.ru'
+-
+    org_id: 1610
+    site: 'http://kurg.ranepa.ru'
+-
+    org_id: 1611
+    site: 'http://www.orn.ranepa.ru'
+-
+    org_id: 1614
+    site: 'http://www.mivlgu.ru'
+-
+    org_id: 1617
+    site: 'http://МПИ.РФ'
+-
+    org_id: 1618
+    site: 'https://www.csu.ru'
+-
+    org_id: 1619
+    site: 'http://www.ifrgufk.ru'
+-
+    org_id: 1622
+    site: 'http://www.uisi.ru'
+-
+    org_id: 1623
+    site: 'http://www.pijs.ru'
+-
+    org_id: 1626
+    site: 'http://kg.mfua.ru'
+-
+    org_id: 1627
+    site: 'http://orsk.mfua.ru'
+-
+    org_id: 1628
+    site: 'http://www.kr.mfua.ru'
+-
+    org_id: 1648
+    site: 'http://www.mebik.ru'
+-
+    org_id: 1649
+    site: www.tyuiu.ru
+-
+    org_id: 1652
+    site: www.tobii.ru
+-
+    org_id: 1653
+    site: 'https://www.tyuiu.ru/branches/nizhnevartovsk/'
+-
+    org_id: 1655
+    site: www.tyuiu.ru
+-
+    org_id: 1662
+    site: 'http://www.rb.asu.ru'
+-
+    org_id: 1664
+    site: 'http://www.asu.ru/structure/filials/belockuricha/'
+-
+    org_id: 1666
+    site: 'http://www.udgutura.ru'
+-
+    org_id: 1672
+    site: 'http://www.vfgumrf.ru'
+-
+    org_id: 1673
+    site: www.kfgumrf.ru
+-
+    org_id: 1677
+    site: 'http://samara.mgpu.ru'
+-
+    org_id: 1678
+    site: 'http://artacademy.perm.ru'
+-
+    org_id: 1679
+    site: 'http://sibsu.ru'
+-
+    org_id: 1681
+    site: 'http://krasnodar.ruc.su'
+-
+    org_id: 1682
+    site: 'https://lki-lipetsk.ru/'
+-
+    org_id: 1686
+    site: sfmai.ru
+-
+    org_id: 1692
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1694
+    site: 'http://www.ufabist.ru'
+-
+    org_id: 1698
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1699
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1700
+    site: 'http://www.atso.ru'
+-
+    org_id: 1701
+    site: 'http://www.orenfil-atiso.ru/index.php'
+-
+    org_id: 1702
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1703
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1704
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1705
+    site: 'http://yaratiso.ru'
+-
+    org_id: 1706
+    site: 'http://www.npi.edu'
+-
+    org_id: 1707
+    site: 'http://www.amti.ru'
+-
+    org_id: 1709
+    site: kf.bmstu.ru
+-
+    org_id: 1721
+    site: 'http://www.tuapse.rshu.ru'
+-
+    org_id: 1729
+    site: 'http://vis2.ru'
+-
+    org_id: 1732
+    site: 'http://www.stis.su'
+-
+    org_id: 1743
+    site: 'http://zabai.ru'
+-
+    org_id: 1744
+    site: 'http://vsiep.ru'
+-
+    org_id: 1745
+    site: www.mkgtu.ru
+-
+    org_id: 1772
+    site: 'http://www.mrsu.ru/'
+-
+    org_id: 1773
+    site: 'http://www.gfi.edu.ru/'
+-
+    org_id: 1775
+    site: 'http://www.vfistu.ru/'
+-
+    org_id: 1776
+    site: 'http://politehvpo.ru/'
+-
+    org_id: 1795
+    site: 'http://дрти.рф'
+-
+    org_id: 1814
+    site: 'https://astr.ranepa.ru/'
+-
+    org_id: 1826
+    site: 'http://www.miu-iv.ru'
+-
+    org_id: 1830
+    site: 'http://www.iwtsedov.ru'
+-
+    org_id: 1832
+    site: 'http://iems.ru'
+-
+    org_id: 1845
+    site: 'http://usinskvuz.ru'
+-
+    org_id: 1872
+    site: 'http://www.unecon.ru'
+-
+    org_id: 1881
+    site: 'http://www.belagy.ru'
+-
+    org_id: 1883
+    site: 'http://nf.vvsu.ru'
+-
+    org_id: 1884
+    site: 'http://b-artem.vvsu.ru/ '
+-
+    org_id: 1888
+    site: 'http://www.krdu-mvd.ru'
+-
+    org_id: 1892
+    site: 'http://uifbguep.ru'
+-
+    org_id: 1894
+    site: 'http://www.iga.ru'
+-
+    org_id: 1906
+    site: www.bsu.edu.ru
+-
+    org_id: 1909
+    site: 'http://www.balakovo.sgap.ru'
+-
+    org_id: 1910
+    site: 'http://www.af.sgap.ru'
+-
+    org_id: 1911
+    site: 'http://www.atiso.ru'
+-
+    org_id: 1927
+    site: 'http://www.mfmgutu.ru'
+-
+    org_id: 1928
+    site: 'http://www.vfmgutu.ru'
+-
+    org_id: 1932
+    site: 'http://blk.ranepa.ru'
+-
+    org_id: 1933
+    site: 'https://tmb.ranepa.ru/'
+-
+    org_id: 1947
+    site: 'http://www.apu.fsin.su'
+-
+    org_id: 1951
+    site: 'http://tf.rsatu.ru'
+-
+    org_id: 1952
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 1953
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 1956
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 1957
+    site: 'http://nf-pgu.ru'
+-
+    org_id: 1960
+    site: 'http://gelsfedu.ru'
+-
+    org_id: 1977
+    site: 'http://www.n-l-i.ru/'
+-
+    org_id: 1987
+    site: 'http://www.agatu.ru'
+-
+    org_id: 1989
+    site: 'http://www.dvgups.ru/amur-izt/'
+-
+    org_id: 1990
+    site: 'http://www.dvgups.ru'
+-
+    org_id: 1993
+    site: 'http://new.dvgups-sakh.ru'
+-
+    org_id: 2008
+    site: 'http://www.dgu-izberbash.ru'
+-
+    org_id: 2009
+    site: 'http://kizdgu.ru'
+-
+    org_id: 2011
+    site: www.dgu-derbent.ru
+-
+    org_id: 2016
+    site: 'http://www.ntimgudt.ru'
+-
+    org_id: 2019
+    site: www.insagro.ru
+-
+    org_id: 2020
+    site: 'http://www.vherzen.ru'
+-
+    org_id: 2027
+    site: 'http://vgi2.volsu.ru'
+-
+    org_id: 2033
+    site: 'http://tpi.donstu.ru'
+-
+    org_id: 2046
+    site: 'http://kiu39.ru'
+-
+    org_id: 2055
+    site: 'http://www.polytech21.ru'
+-
+    org_id: 2063
+    site: 'https://rimsou.ru'
+-
+    org_id: 2065
+    site: 'https://polytech-kolomna.ru'
+-
+    org_id: 2072
+    site: 'http://tshi.tomsk.ru/'
+-
+    org_id: 2073
+    site: www.omua.ru
+-
+    org_id: 2074
+    site: 'http://www.jurac.ru'
+-
+    org_id: 2078
+    site: 'http://narfu.ru/kf/'
+-
+    org_id: 2080
+    site: 'http://www.narfu.ru/'
+-
+    org_id: 2083
+    site: 'http://www.dstu.ru'
+-
+    org_id: 2103
+    site: 'http://www.muiv.ru'
+-
+    org_id: 2104
+    site: 'http://www.muiv.ru'
+-
+    org_id: 2106
+    site: 'http://www.kgeu.ru'
+-
+    org_id: 2108
+    site: 'http://www.vostok.kai.ru'
+-
+    org_id: 2112
+    site: 'http://www.spig.spb.ru'
+-
+    org_id: 2130
+    site: 'http://dvf-vavt.ru'
+-
+    org_id: 2136
+    site: 'http://br.ranepa.ru/new.php'
+-
+    org_id: 2140
+    site: 'http://dvfu.ru/'
+-
+    org_id: 2142
+    site: 'https://cheb.ranepa.ru/'
+-
+    org_id: 2149
+    site: 'http://www.csu.ru'
+-
+    org_id: 2150
+    site: 'http://www.vfrsteu.ru'
+-
+    org_id: 2151
+    site: 'http://vfrsute.ru/'
+-
+    org_id: 2152
+    site: ivanovo.rea.ru
+-
+    org_id: 2160
+    site: 'http://www.orenrsute.ru'
+-
+    org_id: 2161
+    site: 'http://www.rea.perm.ru'
+-
+    org_id: 2162
+    site: 'http://pbrea.ru/'
+-
+    org_id: 2166
+    site: www.tula.rea.ru
+-
+    org_id: 2170
+    site: 'https://uust.ru/if/'
+-
+    org_id: 2184
+    site: 'http://www.hasdgu.ru'
+-
+    org_id: 2186
+    site: 'http://www.kumertau.ugatu.su'
+-
+    org_id: 2204
+    site: 'http://www.mf.rmat.ru'
+-
+    org_id: 2211
+    site: 'http://kpfu.ru'
+-
+    org_id: 2219
+    site: 'http://ski.ranepa.ru'
+-
+    org_id: 2273
+    site: 'http://www.nchti.ru'
+-
+    org_id: 2274
+    site: 'http://bfknitu.com/'
+-
+    org_id: 2275
+    site: 'http://www.krasgup.ru'
+-
+    org_id: 2276
+    site: 'http://www.samara.gup.ru'
+-
+    org_id: 2280
+    site: 'http://volog.ranepa.ru'
+-
+    org_id: 2281
+    site: 'http://vbr.ranepa.ru'
+-
+    org_id: 2282
+    site: 'http://iv.ranepa.ru'
+-
+    org_id: 2283
+    site: 'http://klg.ranepa.ru'
+-
+    org_id: 2284
+    site: 'http://www.ranepa.ru/'
+-
+    org_id: 2285
+    site: 'http://www.novgor.ranepa.ru'
+-
+    org_id: 2286
+    site: 'https://krl.ranepa.ru/'
+-
+    org_id: 2289
+    site: 'http://www.tver.ranepa.ru'
+-
+    org_id: 2291
+    site: 'http://мпгу.рф'
+-
+    org_id: 2293
+    site: 'http://мпгу.рф'
+-
+    org_id: 2297
+    site: 'http://мпгу.рф'
+-
+    org_id: 2305
+    site: 'https://vlad.ranepa.ru'
+-
+    org_id: 2306
+    site: 'http://vrn.ranepa.ru'
+-
+    org_id: 2312
+    site: 'http://www.ksti.su'
+-
+    org_id: 2322
+    site: 'http://www.rgutis05.ru'
+-
+    org_id: 2336
+    site: 'https://www.miass.susu.ru/'
+-
+    org_id: 2338
+    site: 'http://www.zb.susu.ru/'
+-
+    org_id: 2339
+    site: 'http://www.susu-nv.ru/'
+-
+    org_id: 2345
+    site: 'http://vgavt-nn.ru/'
+-
+    org_id: 2349
+    site: 'http://vgavt-nn.ru/'
+-
+    org_id: 2350
+    site: 'https://www.vgavt-nn.ru'
+-
+    org_id: 2351
+    site: 'http://lf.pstu.ru'
+-
+    org_id: 2352
+    site: 'http://www.pnipu.ru'
+-
+    org_id: 2361
+    site: 'https://barnaul.spbume.ru/'
+-
+    org_id: 2363
+    site: 'http://www.smiame.ru'
+-
+    org_id: 2370
+    site: 'http://www.mai.ru/education/vzlet/'
+-
+    org_id: 2377
+    site: www.arm.kubsu.ru
+-
+    org_id: 2380
+    site: www.nvr.kubsu.ru/new
+-
+    org_id: 2382
+    site: www.tih.kubsu.ru
+-
+    org_id: 2389
+    site: 'http://ufa.ruc.su'
+-
+    org_id: 2390
+    site: 'http://www.pk.ruc.su'
+-
+    org_id: 2392
+    site: 'http://www.vladimir.ruc.su'
+-
+    org_id: 2417
+    site: 'http://www.atidstu.ru'
+-
+    org_id: 2420
+    site: 'http://www.vuit.ru'
+-
+    org_id: 2430
+    site: 'http://viepp.ru'
+-
+    org_id: 2440
+    site: 'http://strbsu.ru'
+-
+    org_id: 2472
+    site: 'http://www.ufali.ru'
+-
+    org_id: 2479
+    site: 'http://www.mofmosu.ru'
+-
+    org_id: 2486
+    site: www.rosnou.ru
+-
+    org_id: 2493
+    site: 'http://www.anapauniver.ru'
+-
+    org_id: 2508
+    site: www.miu-sochi.ru
+-
+    org_id: 2512
+    site: 'http://www.rsuj.ru'
+-
+    org_id: 2522
+    site: 'http://www.gief.ru'
+-
+    org_id: 2523
+    site: 'http://www.sspi.ru'
+-
+    org_id: 2524
+    site: 'http://sportacadem.ru'
+-
+    org_id: 2526
+    site: www.pushkin.institute
+-
+    org_id: 2528
+    site: 'http://www.vepi.ru'
+-
+    org_id: 2530
+    site: 'http://osiart.ru'
+-
+    org_id: 2532
+    site: 'http://vipe.fsin.su'
+-
+    org_id: 2541
+    site: 'http://www.ural-mvd.ru'
+-
+    org_id: 2551
+    site: 'http://nieup.ru/'
+-
+    org_id: 2569
+    site: 'http://www.sfrpa.ru'
+-
+    org_id: 2571
+    site: 'http://www.ieac.ru'
+-
+    org_id: 2572
+    site: 'http://www.vfmei.ru'
+-
+    org_id: 2573
+    site: 'http://www.sbmpei.ru'
+-
+    org_id: 2575
+    site: 'https://ставф.крду.мвд.рф/'
+-
+    org_id: 2580
+    site: 'http://www.raa.ru'
+-
+    org_id: 2590
+    site: 'http://smolsgua.ru'
+-
+    org_id: 2608
+    site: 'http://www.almet-tisbi.ru'
+-
+    org_id: 2609
+    site: 'http://www.tisbi-chelny.ru'
+-
+    org_id: 2620
+    site: 'http://www.rudn.ru/'
+-
+    org_id: 2644
+    site: 'http://www.nshf.sfedu.ru'
+-
+    org_id: 2646
+    site: 'http://www.nfmisis.net'
+-
+    org_id: 2650
+    site: 'http://www.yiwt.ru'
+-
+    org_id: 2654
+    site: 'http://lip.ranepa.ru'
+-
+    org_id: 2655
+    site: 'http://www.smol.ranepa.ru'
+-
+    org_id: 2656
+    site: 'http://www.ifguap.ru'
+-
+    org_id: 2658
+    site: 'http://tf.omgau.ru'
+-
+    org_id: 2709
+    site: 'http://www.vbgherzen.spb.ru'
+-
+    org_id: 2710
+    site: www.herzen.spb.ru
+-
+    org_id: 2713
+    site: 'http://www.yaroslavl.mfua.ru'
+-
+    org_id: 2724
+    site: 'http://rsue.ru/kf/index.aspx'
+-
+    org_id: 2728
+    site: 'http://mfrgeu.ru/'
+-
+    org_id: 2733
+    site: 'http://www.origt.ru'
+-
+    org_id: 2738
+    site: 'http://www.kagms.ru'
+-
+    org_id: 2740
+    site: 'http://chgiki.ru'
+-
+    org_id: 2742
+    site: 'https://mgiit.ru'
+-
+    org_id: 2743
+    site: 'http://www.agiki.ru'
+-
+    org_id: 2744
+    site: www.vfmadi.ru
+-
+    org_id: 2751
+    site: 'http://www.bfsibguti.ru'
+-
+    org_id: 2781
+    site: 'http://bgiik.ru/'
+-
+    org_id: 2787
+    site: 'http://нггти.рф'
+-
+    org_id: 2853
+    site: 'http://mgutu48.ru'
+-
+    org_id: 2856
+    site: 'http://www.mephi.ru'
+-
+    org_id: 2857
+    site: 'http://www.mephi.ru'
+-
+    org_id: 2864
+    site: 'http://www.oihps.ru'
+-
+    org_id: 2888
+    site: 'http://ieml.ru'
+-
+    org_id: 2889
+    site: 'http://www.ieml.ru'
+-
+    org_id: 2896
+    site: 'http://www.eeip.ru'
+-
+    org_id: 2898
+    site: 'http://www.tiugsha.ru'
+-
+    org_id: 2901
+    site: 'http://www.vf.ugtu.net'
+-
+    org_id: 2902
+    site: 'http://www.msei.ru'
+-
+    org_id: 2904
+    site: 'http://www.vuz-gsi.ru'
+-
+    org_id: 2907
+    site: WWW.obe.ru
+-
+    org_id: 2934
+    site: 'http://pavlovsky.rgsu.net/'
+-
+    org_id: 2945
+    site: 'http://www.imef.ru'
+-
+    org_id: 2952
+    site: 'http://www.udsu.ru'
+-
+    org_id: 2955
+    site: upi.kamensktel.ru
+-
+    org_id: 2957
+    site: 'http://www.ugtu.krasnoturinsk.org'
+-
+    org_id: 2958
+    site: 'http://www.urfu.ru'
+-
+    org_id: 2974
+    site: i-eu.ru
+-
+    org_id: 2980
+    site: unitech-mo.ru
+-
+    org_id: 2991
+    site: 'http://www.инупбт.рф'
+-
+    org_id: 3000
+    site: 'http://www.smolensk-seminaria.ru'
+-
+    org_id: 3011
+    site: 'http://www.kf-rmat.ru'
+-
+    org_id: 3013
+    site: zpit.org
+-
+    org_id: 3019
+    site: 'http://mgutm.ru'
+-
+    org_id: 3038
+    site: 'http://www.ugrasu.ru'
+-
+    org_id: 3043
+    site: 'http://www.fa.ru/fil/kaluga'
+-
+    org_id: 3048
+    site: 'http://www.spbiem.ru'
+-
+    org_id: 3055
+    site: 'http://isea.bratsk.ru'
+-
+    org_id: 3058
+    site: 'http://www.niyak.spb.ru'
+-
+    org_id: 3061
+    site: 'http://hmgma.ru/'
+-
+    org_id: 3066
+    site: 'http://www.mephi.ru'
+-
+    org_id: 3067
+    site: 'http://www.tti-mephi.ru'
+-
+    org_id: 3070
+    site: kazanriu.ru
+-
+    org_id: 3085
+    site: 'http://www.rmat.pskov.ru'
+-
+    org_id: 3112
+    site: www.noironline.ru
+-
+    org_id: 3116
+    site: 'http://dvfu.ru/'
+-
+    org_id: 3125
+    site: 'http://www.sseu.ru/'
+-
+    org_id: 3164
+    site: 'http://www.rggu.ru'
+-
+    org_id: 3188
+    site: 'http://giep-rgeu.ru/'
+-
+    org_id: 3190
+    site: 'http://znamensk.asu.edu.ru'
+-
+    org_id: 3207
+    site: 'http://мпгу.рф'
+-
+    org_id: 3214
+    site: 'http://www.nfbgu.ru'
+-
+    org_id: 3216
+    site: 'http://www.shf-sfu.ru'
+-
+    org_id: 3244
+    site: 'http://alf-kai.ru'
+-
+    org_id: 3249
+    site: 'https://chelny.kai.ru/'
+-
+    org_id: 3261
+    site: www.tib.tomsk.ru
+-
+    org_id: 3264
+    site: www.omga.su
+-
+    org_id: 3294
+    site: 'http://uni-dubna.ru/'
+-
+    org_id: 3295
+    site: 'http://uni-dubna.ru/'
+-
+    org_id: 3296
+    site: 'http://uni-dubna.ru/'
+-
+    org_id: 3303
+    site: 'https://stav.ranepa.ru/'
+-
+    org_id: 3325
+    site: 'http://www.rfmumvd.ru'
+-
+    org_id: 3326
+    site: 'http://www.smolensk.ruc.su'
+-
+    org_id: 3333
+    site: 'http://spbgupkirov.ru'
+-
+    org_id: 3334
+    site: 'http://alt.ranepa.ru'
+-
+    org_id: 3338
+    site: 'http://vfrmat.ru'
+-
+    org_id: 3343
+    site: 'http://www.i-mil.ru'
+-
+    org_id: 3362
+    site: 'http://www.magtu.ru'
+-
+    org_id: 3367
+    site: www.rosnou.ru
+-
+    org_id: 3374
+    site: 'http://www.synergy.ru'
+-
+    org_id: 3381
+    site: 'http://sfvstu.ru'
+-
+    org_id: 3396
+    site: 'http://www.skgi.ru'
+-
+    org_id: 3408
+    site: 'http://www.gfbgtu.ru'
+-
+    org_id: 3410
+    site: 'http://www.skf-bgtu.ru'
+-
+    org_id: 3430
+    site: 'http://www.mspi.edu.ru'
+-
+    org_id: 3445
+    site: 'http://www.esb.raj.ru'
+-
+    org_id: 3446
+    site: feb.raj.ru
+-
+    org_id: 3447
+    site: 'http://wsb.raj.ru/'
+-
+    org_id: 3448
+    site: 'http://kb.rgup.ru/'
+-
+    org_id: 3449
+    site: 'http://vrb.raj.ru'
+-
+    org_id: 3450
+    site: 'https://rb.rgup.ru/'
+-
+    org_id: 3451
+    site: 'http://nwb.raj.ru'
+-
+    org_id: 3452
+    site: 'http://ncb.rgup.ru/'
+-
+    org_id: 3453
+    site: 'http://ub.raj.ru'
+-
+    org_id: 3454
+    site: 'http://www.cb.rgup.ru'
+-
+    org_id: 3455
+    site: 'http://mgeitver.ru'
+-
+    org_id: 3456
+    site: 'http://www.skf-mgei.ru'
+-
+    org_id: 3468
+    site: 'http://oreluniver.ru/'
+-
+    org_id: 3469
+    site: 'http://www.bifk.ru/'
+-
+    org_id: 3484
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 3486
+    site: 'http://www.zfkai.ru'
+-
+    org_id: 3496
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 3506
+    site: 'http://rfei.ru/'
+-
+    org_id: 3512
+    site: 'http://www.rui-rpa.ru/'
+-
+    org_id: 3524
+    site: ''
+-
+    org_id: 3537
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 3540
+    site: 'http://www.art-gzhel.ru'
+-
+    org_id: 3543
+    site: 'http://www.udgum.ru'
+-
+    org_id: 3546
+    site: 'http://www.lfkai.ru'
+-
+    org_id: 3557
+    site: www.miep.edu.ru
+-
+    org_id: 3559
+    site: 'http://spi-vuz.ru'
+-
+    org_id: 3580
+    site: 'http://rosnoudm.ru/'
+-
+    org_id: 3597
+    site: 'http://www.inzaulsu.ru'
+-
+    org_id: 3598
+    site: 'http://vf.misis.ru'
+-
+    org_id: 3606
+    site: www.ksai.ru
+-
+    org_id: 3608
+    site: 'http://www.lawacademy.ru'
+-
+    org_id: 3613
+    site: 'http://www.mhpi.edu.ru'
+-
+    org_id: 3615
+    site: 'http://www.fa.ru/fil/omsk/about/Pages/default.aspx'
+-
+    org_id: 3618
+    site: 'http://biub.ru'
+-
+    org_id: 3623
+    site: 'http://bepi-edu.ru'
+-
+    org_id: 3626
+    site: 'http://www.psi.perm.ru'
+-
+    org_id: 3633
+    site: 'http://dfrpa-mu.ru'
+-
+    org_id: 3634
+    site: 'http://www.mgsu.ru'
+-
+    org_id: 3635
+    site: 'http://www.akadem74.ru'
+-
+    org_id: 3636
+    site: 'http://www.sport-ural.ru'
+-
+    org_id: 3639
+    site: 'http://www.reu32.ru'
+-
+    org_id: 3651
+    site: 'http://www.krsk.irgups.ru'
+-
+    org_id: 3652
+    site: 'http://zab.megalink.ru'
+-
+    org_id: 3653
+    site: 'http://www.tolgas.ru'
+-
+    org_id: 3654
+    site: www.sgpi.ru
+-
+    org_id: 3669
+    site: 'http://ul.ranepa.ru'
+-
+    org_id: 3671
+    site: 'http://mosumvd.com'
+-
+    org_id: 3673
+    site: 'http://kubmi.ru'
+-
+    org_id: 3689
+    site: 'http://www.imc-i.ru/'
+-
+    org_id: 3696
+    site: ''
+-
+    org_id: 3698
+    site: 'http://izhji.ru'
+-
+    org_id: 3699
+    site: 'http://www.kazanrpa.ru'
+-
+    org_id: 3712
+    site: 'http://вгиик.рф'
+-
+    org_id: 3723
+    site: 'http://www.oskol.vepi.ru'
+-
+    org_id: 3735
+    site: 'https://of.psuti.ru/'
+-
+    org_id: 3739
+    site: 'http://inisk.ru'
+-
+    org_id: 3746
+    site: 'http://www.dstu.ru'
+-
+    org_id: 3756
+    site: 'http://kiep.ucoz.ru/'
+-
+    org_id: 3758
+    site: 'https://j-univer.ru/'
+-
+    org_id: 3769
+    site: 'http://www.mosi.ru'
+-
+    org_id: 3770
+    site: 'http://kiid.ru'
+-
+    org_id: 3775
+    site: 'http://ngiei.ru'
+-
+    org_id: 3782
+    site: 'http://www.volbi.ru'
+-
+    org_id: 3792
+    site: ''
+-
+    org_id: 3804
+    site: ''
+-
+    org_id: 3816
+    site: ''
+-
+    org_id: 3817
+    site: ''
+-
+    org_id: 3821
+    site: 'https://serpukhov-varvsn.mil.ru/'
+-
+    org_id: 3826
+    site: 'http://www.academy-mozhayskogo.ru'
+-
+    org_id: 3842
+    site: www.tobolskutmn.ru
+-
+    org_id: 3851
+    site: www.sevgmu.ru
+-
+    org_id: 3871
+    site: 'https://sevastopol.rea.ru'
+-
+    org_id: 3884
+    site: аспи.рф
+-
+    org_id: 3889
+    site: 'http://kf.osu.ru'
+-
+    org_id: 3891
+    site: 'http://mgutu-vf.ru'
+-
+    org_id: 3901
+    site: ''
+-
+    org_id: 3917
+    site: 'https://bf.cchgeu.ru/'
+-
+    org_id: 3918
+    site: 'http://www.vg.mfua.ru'
+-
+    org_id: 3922
+    site: www.kfbupk.ru
+-
+    org_id: 3926
+    site: 'http://dzr.ranepa.ru'
+-
+    org_id: 3927
+    site: 'http://www.ranepa.ru/'
+-
+    org_id: 3932
+    site: ''
+-
+    org_id: 3940
+    site: 'http://www.vshni.ru'
+-
+    org_id: 3941
+    site: 'http://www.vshni.ru'
+-
+    org_id: 3943
+    site: 'http://www.penzgtu.ru'
+-
+    org_id: 3955
+    site: www.sev.msu.ru
+-
+    org_id: 3960
+    site: 'http://www.inpsycho.ru'
+-
+    org_id: 3961
+    site: 'http://www.usurt.ru/ru/data/index2.phtml?cat=14_5'
+-
+    org_id: 3962
+    site: 'http://www.kizht.ru'
+-
+    org_id: 3963
+    site: 'http://www.usurt.ru/ru/data/index3.phtml?cat=7_4'
+-
+    org_id: 3964
+    site: 'http://www.pizht.ru'
+-
+    org_id: 3969
+    site: ''
+-
+    org_id: 3971
+    site: 'http://www.билгу.рф'
+-
+    org_id: 3985
+    site: 'http://www.chgifkis.ru'
+-
+    org_id: 3986
+    site: 'http://mitu-masi.ru'
+-
+    org_id: 4002
+    site: www.kifei.ru
+-
+    org_id: 4008
+    site: 'http://www.sfi.ru'
+-
+    org_id: 4023
+    site: 'http://klin.rgsu.net/'
+-
+    org_id: 4026
+    site: 'http://www.gifip.ru'
+-
+    org_id: 4034
+    site: 'http://www.ngti.ru'
+-
+    org_id: 4049
+    site: 'http://www.orel.vepi.ru'
+-
+    org_id: 4051
+    site: 'http://saransk.ruc.su'
+-
+    org_id: 4052
+    site: 'http://www.cheb.ruc.su'
+-
+    org_id: 4054
+    site: 'http://www.bwmi.ru'
+-
+    org_id: 4057
+    site: niddesign.ru
+-
+    org_id: 4088
+    site: 'http://tula.ranepa.ru'
+-
+    org_id: 4090
+    site: ''
+-
+    org_id: 4101
+    site: 'http://www.festu.khv.ru'
+-
+    org_id: 4105
+    site: 'http://www.spbau.ru'
+-
+    org_id: 4109
+    site: 'http://www.kaliningrad.ruc.su'
+-
+    org_id: 4111
+    site: 'http://www.krv.ranepa.ru'
+-
+    org_id: 4114
+    site: www.skfmadi.ru
+-
+    org_id: 4115
+    site: 'http://www.muiv.ru'
+-
+    org_id: 4130
+    site: 'http://uigps.ru/content/institut'
+-
+    org_id: 4148
+    site: www.тиуб.рф
+-
+    org_id: 4150
+    site: www.eletsrosnou.ru
+-
+    org_id: 4156
+    site: 'http://www.stirzn.ru'
+-
+    org_id: 4158
+    site: www.imeder.ru
+-
+    org_id: 4164
+    site: 'http://artershov.ru'
+-
+    org_id: 4165
+    site: 'http://www.asou-mo.ru'
+-
+    org_id: 4172
+    site: 'http://www.nes.ru'
+-
+    org_id: 4211
+    site: 'http://www.ranepa.ru/'
+-
+    org_id: 4218
+    site: 'http://www.iga.ru'
+-
+    org_id: 4224
+    site: 'http://www.arz.unn.ru/'
+-
+    org_id: 4226
+    site: 'http://www.unn.ru/cdo/Dzerzhinsk.html'
+-
+    org_id: 4227
+    site: 'http://www.unn.ru/cdo/Pavlovo.html'
+-
+    org_id: 4250
+    site: 'http://www.bgi.spb.ru'
+-
+    org_id: 4254
+    site: 'http://www.dvik.info'
+-
+    org_id: 4267
+    site: 'http://www.msses.ru'
+-
+    org_id: 4274
+    site: 'http://vgifk.ru'
+-
+    org_id: 4287
+    site: ''
+-
+    org_id: 4296
+    site: www.oivt-sguwt.ru
+-
+    org_id: 4305
+    site: 'http://budfilsgpi.ru'
+-
+    org_id: 4306
+    site: 'http://www.yesspi.ru'
+-
+    org_id: 4322
+    site: 'http://еаси.екатеринбург.рф'
+-
+    org_id: 4371
+    site: 'http://www.7480040.ru'
+-
+    org_id: 4372
+    site: 'http://ineup.ru/'
+-
+    org_id: 4373
+    site: 'http://iuifagprf.ru'
+-
+    org_id: 4387
+    site: 'http://www.fa.ru/fil/vladik'
+-
+    org_id: 4392
+    site: 'http://www.fa.ru/fil/spb/Pages/Home.aspx'
+-
+    org_id: 4413
+    site: 'http://nik.ugrasu.ru/'
+-
+    org_id: 4424
+    site: 'http://www.klgd1.ranepa.ru'
+-
+    org_id: 4444
+    site: 'http://www.vigps.ru'
+-
+    org_id: 4448
+    site: 'http://sibigps.ru'
+-
+    org_id: 4507
+    site: 'http://sgpizh.ru'
+-
+    org_id: 4580
+    site: 'http://темрюк - мгуту.рф'
+-
+    org_id: 4595
+    site: 'http://www.viti-mephi.ru'
+-
+    org_id: 4616
+    site: 'http://www.medinstitut.org'
+-
+    org_id: 4621
+    site: 'http://www.s-vfu.chukotka.ru/'
+-
+    org_id: 4646
+    site: 'http://www.pskgu.ru'
+-
+    org_id: 4648
+    site: 'http://dimpku.ru/'
+-
+    org_id: 4676
+    site: 'http://iptnn.ru'
+-
+    org_id: 4683
+    site: 'http://sar.reaviz.ru'
+-
+    org_id: 5002
+    site: 'http://daggum.ru'
+-
+    org_id: 5004
+    site: 'http://www.uralsky-missioner.ru'
+-
+    org_id: 5005
+    site: kukiit.ru
+-
+    org_id: 5007
+    site: 'http://www.spbiir.ru'
+-
+    org_id: 5012
+    site: 'http://www.sgla.ru'
+-
+    org_id: 5017
+    site: 'http://www.vsiem.ru'
+-
+    org_id: 5018
+    site: 'http://academy.andriaka.ru/; academy-andria'
+-
+    org_id: 5023
+    site: 'http://www.vggi.ru'
+-
+    org_id: 5024
+    site: 'http://raikin-school.com'
+-
+    org_id: 5025
+    site: 'http://kgmtu.ru'
+-
+    org_id: 5026
+    site: pravinst.ru
+-
+    org_id: 5028
+    site: www.eduugmk.com
+-
+    org_id: 5029
+    site: 'http://www.mai.ru/education/strela/'
+-
+    org_id: 5031
+    site: 'https://www.filialpskovgu.ru/'
+-
+    org_id: 5041
+    site: 'http://www.ranepa.ru/'
+-
+    org_id: 5043
+    site: 'http://www.vshni.ru'
+-
+    org_id: 5046
+    site: 'http://www.mgau.ru'
+-
+    org_id: 5049
+    site: 'http://irkvgik.ru'
+-
+    org_id: 5050
+    site: 'http://www.vgik.info'
+-
+    org_id: 5051
+    site: 'http://www.spkvtk.ru'
+-
+    org_id: 5060
+    site: 'http://www.astrisgz.ru'
+-
+    org_id: 5065
+    site: 'http://www.muiv.ru'
+-
+    org_id: 5088
+    site: 'http://synergy.ru'
+-
+    org_id: 5091
+    site: 'http://www.msgpa.ru'
+-
+    org_id: 5093
+    site: 'http://www.cfuv.ru/'
+-
+    org_id: 5094
+    site: 'http://www.cfuv.ru/'
+-
+    org_id: 5095
+    site: 'http://www.cfuv.ru/'
+-
+    org_id: 5096
+    site: 'http://www.cfuv.ru/'
+-
+    org_id: 5097
+    site: crb.rgup.ru
+-
+    org_id: 5098
+    site: 'http://kgmtu.ru'
+-
+    org_id: 5099
+    site: 'http://nf.samgtu.ru/'
+-
+    org_id: 5116
+    site: 'https://orel.ranepa.ru/'
+-
+    org_id: 5121
+    site: 'http://sgasu.belebey.ru'
+-
+    org_id: 5122
+    site: www.mgimo.ru
+-
+    org_id: 5123
+    site: www.kipu-rc.ru
+-
+    org_id: 5126
+    site: 'https://www.arcticsu.ru/'
+-
+    org_id: 5127
+    site: smolensk.rea.ru
+-
+    org_id: 5135
+    site: www.samgups.ru
+-
+    org_id: 5140
+    site: 'https://www.ranepa.ru/'
+-
+    org_id: 5146
+    site: 'https://kfilial.mggeu.ru/'
+-
+    org_id: 5151
+    site: 'http://www.unn.ru/cdo/Balakhna.html'
+-
+    org_id: 5158
+    site: 'http://www.agatu.ru'
+-
+    org_id: 5159
+    site: ''
+-
+    org_id: 5165
+    site: 'https://www.pgups.ru'
+-
+    org_id: 5166
+    site: 'http://lnau.su/'
+-
+    org_id: 5167
+    site: ''
+-
+    org_id: 5168
+    site: 'https://ivanteevka.mospolytech.ru/'
+-
+    org_id: 5169
+    site: ''
+-
+    org_id: 5171
+    site: ''
+-
+    org_id: 5172
+    site: 'https://nvpk-mephi.ru/'
+-
+    org_id: 5175
+    site: 'http://donnu.ru'
+-
+    org_id: 5176
+    site: 'https://dahluniver.ru/'
+-
+    org_id: 10000
+    site: sarpds.ru
+-
+    org_id: 10004
+    site: 'https://www.skoltech.ru'
+-
+    org_id: 10006
+    site: мос-ити.рф
+-
+    org_id: 10007
+    site: www.samgups.ru
+-
+    org_id: 10011
+    site: 'http://ueu.crimea.ru'
+-
+    org_id: 10016
+    site: www.rgups.ru
+-
+    org_id: 10017
+    site: 'http://www.atiso.ru'
+-
+    org_id: 10018
+    site: 'http://oreluniver.ru/'
+-
+    org_id: 10022
+    site: 'http://kamensk.rosnou.ru/'
+-
+    org_id: 10026
+    site: 'http://www.urep.ru'
+-
+    org_id: 10028
+    site: www.viam.ru
+-
+    org_id: 10029
+    site: 'https://sochi.rpa-mu.ru'
+-
+    org_id: 10031
+    site: www.nifru.ru
+-
+    org_id: 10034
+    site: 'http://oreluniver.ru/'
+-
+    org_id: 10039
+    site: 'http://spbda.ru/'
+-
+    org_id: 10040
+    site: 'https://innopolis.university/'
+-
+    org_id: 10042
+    site: 'http://www.bmstu.ru'
+-
+    org_id: 10046
+    site: www.tatk.ru
+-
+    org_id: 61241
+    site: 'http://sevsu.ru'
+-
+    org_id: 61244
+    site: 'http://www.reaviz.ru'
+-
+    org_id: 61248
+    site: 'http://www.cfuv.ru/'
+-
+    org_id: 61261
+    site: 'http://www.skitu.ru'
+-
+    org_id: 61263
+    site: 'https://donampa.ru/'
+-
+    org_id: 61265
+    site: 'https://donntu.ru/'
+-
+    org_id: 61268
+    site: 'http://www.lilgu.luga.ru'
+-
+    org_id: 61294
+    site: 'http://www.mosap.ru'
+-
+    org_id: 61295
+    site: 'https://www.podolsk-ssi.ru/'
+-
+    org_id: 61296
+    site: 'http://lipetsk.vepi.ru'
+-
+    org_id: 61297
+    site: 'https://ispring.institute/'
+-
+    org_id: 61298
+    site: 'https://kazpds.ru/'
+-
+    org_id: 61299
+    site: 'http://sf-mgei.ru'
+-
+    org_id: 61300
+    site: 'https://www.pgups.ru'
+-
+    org_id: 61301
+    site: 'https://mti.edu.ru'
+-
+    org_id: 61302
+    site: 'https://altay-seminary.ru/'
+-
+    org_id: 61303
+    site: 'http://mpgu.su'
+-
+    org_id: 61304
+    site: www.smolensk.ideka.ru
+-
+    org_id: 61305
+    site: www.cherkessk.ideka.ru
+-
+    org_id: 61306
+    site: 'https://miiimel.ru/'
+-
+    org_id: 61307
+    site: kpds42.ru
+-
+    org_id: 61308
+    site: 'http://www.miyu.ru'
+-
+    org_id: 61309
+    site: 'https://mti.edu.ru'
+-
+    org_id: 61310
+    site: 'https://ouep.ru'
+-
+    org_id: 61311
+    site: 'http://mpgu.su'
+-
+    org_id: 61312
+    site: kpds.ru
+-
+    org_id: 61313
+    site: www.cherkessk.ideka.ru
+-
+    org_id: 61314
+    site: 'http://bf-vshni.ru/'
+-
+    org_id: 61315
+    site: 'https://vetacademy.pro/'
+-
+    org_id: 61316
+    site: www.tyumen.ideka.ru
+-
+    org_id: 61317
+    site: 'https://sarov.msu.ru/'
+-
+    org_id: 61318
+    site: 'https://rgu-tver.ru/'
+-
+    org_id: 61319
+    site: 'https://ussur.vvsu.ru/'
+-
+    org_id: 61320
+    site: www.doctorantura.ru
+-
+    org_id: 61321
+    site: 'http://www.tamds.ru'
+-
+    org_id: 61322
+    site: ppds.ru
+-
+    org_id: 61323
+    site: 'http://rossosh.vepi.ru'
+-
+    org_id: 61324
+    site: 'http://mgei-volga.ru'
+-
+    org_id: 61325
+    site: 'https://fedoskino-vshni.ru'
+-
+    org_id: 61326
+    site: vhutein.ru
+-
+    org_id: 61327
+    site: www/vpds.ru
+-
+    org_id: 61328
+    site: 'https://sdamp.ru//'
+-
+    org_id: 61329
+    site: 'http://sfmgei.ru'
+-
+    org_id: 61330
+    site: 'https://dsnsk.ru/'
+-
+    org_id: 61331
+    site: 'https://lomonosov.lengu.ru'
+-
+    org_id: 61332
+    site: 'https://gf.misis.ru/'
+-
+    org_id: 61333
+    site: 'http://bel-seminaria.ru/'
+-
+    org_id: 61334
+    site: www.epds.ru
+-
+    org_id: 61335
+    site: www.bolgar.academy
+-
+    org_id: 61336
+    site: 'https://www.ompds.ru/'
+-
+    org_id: 61337
+    site: 'https://kerch.kipu-rc.ru/'
+-
+    org_id: 61338
+    site: www.yakutsk.ideka.ru
+-
+    org_id: 61339
+    site: 'https://nupds.ru'
+-
+    org_id: 61340
+    site: 'https://siriusuniversity.ru/'
+-
+    org_id: 61341
+    site: 'http://www.miu.su'
+-
+    org_id: 61342
+    site: 'http://mdab.ru/'
+-
+    org_id: 61343
+    site: www.pskov.ideka.ru
+-
+    org_id: 61344
+    site: 'http://kalugads.ru/'
+-
+    org_id: 61345
+    site: 'https://eusp.org'
+-
+    org_id: 61346
+    site: 'https://spbreaviz.ru'
+-
+    org_id: 61347
+    site: 'http://www.klinmgei.ru'
+-
+    org_id: 61348
+    site: 'https://seminariapenza.ru/'
+-
+    org_id: 61349
+    site: 'http://www.nkfmgei.ru'
+-
+    org_id: 61350
+    site: 'https://mpda.ru/'
+-
+    org_id: 61351
+    site: perm.ideka.ru
+-
+    org_id: 61352
+    site: 'https://mitu.msk.ru/'
+-
+    org_id: 61353
+    site: 'http://www.kgsu.ru'
+-
+    org_id: 61354
+    site: 'http://orends.ru/'
+-
+    org_id: 61355
+    site: 'http://www.anoimei.ru'

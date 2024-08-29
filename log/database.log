@@ -1,0 +1,72 @@
+[2024-08-29 14:19:37] Подключение к opendata успешно!
+[2024-08-29 14:19:37] Подключение к opendata прервано!
+[2024-08-29 14:20:18] Подключение к opendata успешно!
+[2024-08-29 14:20:18] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 14:20:18] Подключение к opendata прервано!
+[2024-08-29 14:20:18] Подключение к niimko прервано!
+[2024-08-29 15:10:57] Подключение к opendata успешно!
+[2024-08-29 15:10:57] Подключение к opendata прервано!
+[2024-08-29 15:11:45] Подключение к opendata успешно!
+[2024-08-29 15:11:45] Подключение к opendata прервано!
+[2024-08-29 15:28:51] Подключение к opendata успешно!
+[2024-08-29 15:28:51] Подключение к opendata прервано!
+[2024-08-29 15:29:14] Подключение к opendata успешно!
+[2024-08-29 15:29:14] Подключение к opendata прервано!
+[2024-08-29 15:30:54] Подключение к opendata успешно!
+[2024-08-29 15:30:54] Подключение к opendata прервано!
+[2024-08-29 15:33:01] Подключение к opendata успешно!
+[2024-08-29 15:33:01] Ошибка запроса: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':v1)' at line 1
+[2024-08-29 15:33:01] Подключение к opendata прервано!
+[2024-08-29 15:35:39] Подключение к opendata успешно!
+[2024-08-29 15:35:39] Подключение к opendata прервано!
+[2024-08-29 15:38:22] Подключение к opendata успешно!
+[2024-08-29 15:38:22] Ошибка запроса: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':v1)' at line 1
+[2024-08-29 15:38:22] Подключение к opendata прервано!
+[2024-08-29 15:38:34] Подключение к opendata успешно!
+[2024-08-29 15:38:34] Ошибка запроса: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':v1)' at line 1
+[2024-08-29 15:38:34] Подключение к opendata прервано!
+[2024-08-29 15:39:03] Подключение к opendata успешно!
+[2024-08-29 15:39:03] Ошибка запроса: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':v1)' at line 1
+[2024-08-29 15:39:03] Подключение к opendata прервано!
+[2024-08-29 15:42:27] Подключение к opendata успешно!
+[2024-08-29 15:42:27] Подключение к opendata прервано!
+[2024-08-29 15:42:38] Подключение к opendata успешно!
+[2024-08-29 15:42:38] Подключение к opendata прервано!
+[2024-08-29 18:00:57] Подключение к opendata успешно!
+[2024-08-29 18:00:57] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:00:57] Подключение к niimko прервано!
+[2024-08-29 18:00:57] Подключение к opendata прервано!
+[2024-08-29 18:01:28] Подключение к opendata успешно!
+[2024-08-29 18:01:28] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:01:28] Подключение к niimko прервано!
+[2024-08-29 18:01:28] Подключение к opendata прервано!
+[2024-08-29 18:03:04] Подключение к opendata успешно!
+[2024-08-29 18:03:04] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:03:05] Подключение к niimko прервано!
+[2024-08-29 18:03:05] Подключение к opendata прервано!
+[2024-08-29 18:03:17] Подключение к opendata успешно!
+[2024-08-29 18:03:17] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:03:17] Подключение к niimko прервано!
+[2024-08-29 18:03:17] Подключение к opendata прервано!
+[2024-08-29 18:06:33] Подключение к opendata успешно!
+[2024-08-29 18:06:33] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:06:34] Подключение к niimko прервано!
+[2024-08-29 18:06:34] Подключение к opendata прервано!
+[2024-08-29 18:07:04] Подключение к opendata успешно!
+[2024-08-29 18:07:04] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:07:10] Подключение к niimko прервано!
+[2024-08-29 18:07:10] Подключение к opendata прервано!
+[2024-08-29 18:07:35] Подключение к opendata успешно!
+[2024-08-29 18:07:35] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:07:41] Подключение к niimko прервано!
+[2024-08-29 18:07:41] Подключение к opendata прервано!
+[2024-08-29 18:08:04] Подключение к opendata успешно!
+[2024-08-29 18:08:04] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:08:19] Подключение к niimko прервано!
+[2024-08-29 18:08:19] Подключение к opendata прервано!
+[2024-08-29 18:09:43] Подключение к opendata успешно!
+[2024-08-29 18:09:43] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
+[2024-08-29 18:09:56] Подключение к niimko прервано!
+[2024-08-29 18:09:56] Подключение к opendata прервано!
+[2024-08-29 18:12:02] Подключение к opendata успешно!
+[2024-08-29 18:12:02] Ошибка подключения к niimko: SQLSTATE[HY000] [1049] Unknown database 'niimko'
