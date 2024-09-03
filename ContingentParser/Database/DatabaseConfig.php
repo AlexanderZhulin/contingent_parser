@@ -3,25 +3,25 @@ namespace ContingentParser\Database;
 
 final class DatabaseConfig
 {
-    private string $_driver;
-    private string $_host;
-    private string $_dbname;
-    private string $_port;
-    private string $_charset;
-    private string $_username;
-    private string $_password;
+    private string $driver;
+    private string $host;
+    private string $dbname;
+    private string $port;
+    private string $charset;
+    private string $username;
+    private string $password;
 
     public function __construct(string $db)
     {
         $config = $this->getDataEnv($db);
         
-        $this->_driver = $config['DB_DRIVER'];
-        $this->_host = $config['DB_HOST'];
-        $this->_dbname = $config['DB_NAME'];
-        $this->_port = $config['DB_PORT'];
-        $this->_charset = $config["DB_CHARSET"];
-        $this->_username = $config['DB_USERNAME'];
-        $this->_password = $config['DB_PASSWORD'];
+        $this->driver = $config['DB_DRIVER'];
+        $this->host = $config['DB_HOST'];
+        $this->dbname = $config['DB_NAME'];
+        $this->port = $config['DB_PORT'];
+        $this->charset = $config["DB_CHARSET"];
+        $this->username = $config['DB_USERNAME'];
+        $this->password = $config['DB_PASSWORD'];
     }
 
     private function getDataEnv(string $db) : array
@@ -39,24 +39,24 @@ final class DatabaseConfig
 
     public function getDBName(): string
     {
-        return $this->_dbname;
+        return $this->dbname;
     }
 
     public function getDsn() : string
     {
-        return $this->_driver.":host=".$this->_host
-            .";dbname=".$this->_dbname
-            .";charset=".$this->_charset
-            .";port=".$this->_port;
+        return $this->driver.":host=".$this->host
+            .";dbname=".$this->dbname
+            .";charset=".$this->charset
+            .";port=".$this->port;
     }
 
     public function getUsername() : string
     {
-        return $this->_username;
+        return $this->username;
     }
 
     public function getPassword() : string
     {
-        return $this->_password;
+        return $this->password;
     } 
 }

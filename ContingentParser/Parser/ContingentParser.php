@@ -6,8 +6,8 @@ use DOMXPath;
 
 class ContingentParser
 {
-    private DOMXPath $xpath;
-    private string $template;
+    private ?DOMXPath $xpath;
+    private const TEMPLATE = '//tr[@itemprop="eduChislen"]//';
     private const ENCODING = "UTF-8"; 
     private const FIELDS = [
         "eduCode" => "td",
@@ -17,17 +17,19 @@ class ContingentParser
         "numberAll" => ["th", "td"]
     ];
 
-    public function __construct(string $html, string $template)
+    public function __construct(string $html)
     {
         libxml_use_internal_errors(true);
         $dom = new DOMDocument(
             encoding: self::ENCODING
         );
-        $this->setEncoding($html);
-        $dom->loadHTML($html);
-        
-        $this->xpath = new DOMXPath($dom);
-        $this->template = $template;
+        if (empty($html)) {
+            $this->xpath = null;
+        } else {
+            $this->setEncoding($html);
+            $dom->loadHTML($html);
+            $this->xpath = new DOMXPath($dom);
+        }
     }
     
     private function setEncoding(string &$html) : void
@@ -41,25 +43,33 @@ class ContingentParser
             );
             $html = str_replace('windows-1251',self::ENCODING, $html); 
         }
+        $html = mb_convert_encoding($html,'HTML-ENTITIES','UTF-8');
     }
     private function parse() : array
     {
         $data = [];
         foreach (self::FIELDS as $field => $tag) {
             if (!is_array($tag)) {
-                $data[$field] = $this->xpath->query($this->template . $tag . "[@itemprop=\"$field\"]");
+                $data[$field] = $this->xpath->query(
+                    self::TEMPLATE . $tag . "[@itemprop=\"$field\"]"
+                );
             } else {
-                $th = $this->xpath->query($this->template . $tag[0] . "[@itemprop=\"$field\"]");
-                $td = $this->xpath->query($this->template . $tag[1] . "[@itemprop=\"$field\"]");
+                $th = $this->xpath->query(
+                    self::TEMPLATE . $tag[0] . "[@itemprop=\"$field\"]"
+                );
+                $td = $this->xpath->query(
+                    self::TEMPLATE . $tag[1] . "[@itemprop=\"$field\"]"
+                );
                 $data[$field] = $th->length > $td->length ? $th : $td;
             }
-            
         }
         return $data;
     }
 
     public function getDataTable() : array
     {
+        if (empty($this->xpath)) return [];
+        
         $data = $this->parse();
         $records = [];
         if ($data == null) return [];
